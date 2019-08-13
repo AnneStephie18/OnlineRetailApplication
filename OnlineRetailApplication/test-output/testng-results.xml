@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="268507" started-at="2019-08-13T14:02:05Z" finished-at="2019-08-13T14:06:34Z">
+    <groups>
+    </groups>
+    <test name="SelectedProduct" duration-ms="129048" started-at="2019-08-13T14:02:05Z" finished-at="2019-08-13T14:04:14Z">
+      <class name="com.onlineretail.qa.testscripts.AutomateSelectedProduct">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@5d624da6]" name="preSetup" is-config="true" duration-ms="35693" started-at="2019-08-13T19:32:05Z" finished-at="2019-08-13T19:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="selectProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@5d624da6]" name="selectProduct" duration-ms="85359" started-at="2019-08-13T19:32:41Z" finished-at="2019-08-13T19:34:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@5d624da6]" name="tearDown" is-config="true" duration-ms="7949" started-at="2019-08-13T19:34:06Z" finished-at="2019-08-13T19:34:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.onlineretail.qa.testscripts.AutomateSelectedProduct -->
+    </test> <!-- SelectedProduct -->
+    <test name="SearchedProduct" duration-ms="139069" started-at="2019-08-13T14:04:14Z" finished-at="2019-08-13T14:06:34Z">
+      <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@54a097cc]" name="preSetup" is-config="true" duration-ms="27482" started-at="2019-08-13T19:34:14Z" finished-at="2019-08-13T19:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@54a097cc]" name="searchProduct" duration-ms="109541" started-at="2019-08-13T19:34:42Z" finished-at="2019-08-13T19:36:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@54a097cc]" name="tearDown" is-config="true" duration-ms="2025" started-at="2019-08-13T19:36:32Z" finished-at="2019-08-13T19:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
+    </test> <!-- SearchedProduct -->
+  </suite> <!-- Suite -->
+</testng-results>

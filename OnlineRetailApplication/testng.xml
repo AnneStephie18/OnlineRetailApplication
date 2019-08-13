@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" >
+ 
+ <test name="SelectedProduct">
+  <classes>
+<class name="com.onlineretail.qa.testscripts.AutomateSelectedProduct"></class>
+ </classes>
+</test>
+
+ <test name="SearchedProduct">
+  <classes>
+<class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct"></class>
+ </classes>
+</test>
+</suite> 

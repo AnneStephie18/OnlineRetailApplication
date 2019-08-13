@@ -1,0 +1,947 @@
+2019-08-13 11:07:17,658  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (98c911fb8c65410bcd90468fd964ea80)
+2019-08-13 11:07:58,350  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (67a77c1519443b86d787cf54d54bd282)
+2019-08-13 11:15:42,814  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (344ea74736664b8787e7bce1477241a6)
+2019-08-13 11:44:17,049  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (fe8929cff35b2ea66df0ae5cf88131a8)
+2019-08-13 11:55:49,939  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (a8e6039d44b33f8ac0bb9a676ed89952)
+2019-08-13 12:03:44,718  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (100226a5786572e052c5a5888ea75a45)
+2019-08-13 12:08:59,535  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f3b30c733071c77d0b58b0288c568902)
+2019-08-13 12:12:54,462  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (fac075fd85c8af8513f9d14f36ef2265)
+2019-08-13 12:13:13,583  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:13:13,584  INFO [main] LogReports:21 - ExpectedTitle of the page:black lux graphic t-shirt
+2019-08-13 12:14:14,907  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1d642f30d515d0ed9d7e778cfcc74e09)
+2019-08-13 12:14:35,808  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:14:35,809  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:15:42,716  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f512d7c17ff08e4f4f08d0c464900151)
+2019-08-13 12:16:00,787  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:16:00,787  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:18:31,824  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (a01cb1886e4108bf88cdcbd7a8930546)
+2019-08-13 12:19:16,842  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (a000f26e652e5677d9a5cd1c53efd22c)
+2019-08-13 12:21:15,687  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4fa0665ee0def634b1736ac1a87aa61b)
+2019-08-13 12:21:40,739  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:21:40,740  INFO [main] LogReports:21 - ExpectedTitle of the page:product_item3_tshirt_expectedtitle
+2019-08-13 12:25:54,949  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (e51849fb572c70c471cddd4b19f9b275)
+2019-08-13 12:26:20,181  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:26:20,182  INFO [main] LogReports:21 - ExpectedTitle of the page:product_item3_tshirt_expectedtitle
+2019-08-13 12:27:36,738  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1c72fc72fea70237498978a42b070ab5)
+2019-08-13 12:28:38,128  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (8612f5e2324e4b29e7becd4add4e5d23)
+2019-08-13 12:29:38,215  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (34926328acc9fe5bb423edd7c7c3e51b)
+2019-08-13 12:30:06,213  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:30:06,215  INFO [main] LogReports:21 - ExpectedTitle of the page:product_item3_tshirt_expectedtitle
+2019-08-13 12:30:06,925  INFO [main] LogReports:21 - selected optiondropdownmenu_value
+2019-08-13 12:31:17,199  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (76eb9c17a23909e3f47943de8a671898)
+2019-08-13 12:31:45,759  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:31:45,760  INFO [main] LogReports:21 - ExpectedTitle of the page:product_item3_tshirt_expectedtitle
+2019-08-13 12:31:46,764  INFO [main] LogReports:21 - selected optionBlack
+2019-08-13 12:45:06,086  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (b8fe0a6c65701fc139e273eb14d2d9cd)
+2019-08-13 12:45:29,873  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:45:29,875  INFO [main] LogReports:21 - ExpectedTitle of the page:product_item3_tshirt_expectedtitle
+2019-08-13 12:47:00,296  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (9817fd28be6b064fff2c4f2c5059e885)
+2019-08-13 12:47:21,547  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:47:21,548  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:47:22,749  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 12:47:23,837  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 12:49:07,038  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (d9a5141fd244c0383d1a65f5b7921685)
+2019-08-13 12:49:28,404  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:49:28,405  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:49:29,252  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 12:49:30,089  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 12:51:17,798  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (fa018546bb06d6a5e4f1e026937ee4bb)
+2019-08-13 12:51:41,689  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:51:41,690  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:51:43,081  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 12:51:44,672  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 12:53:55,296  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (b18301a4ef8906e025f2eda8dc0250d3)
+2019-08-13 12:54:17,856  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:54:17,856  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 12:54:18,410  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 12:54:19,123  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:09:03,292  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5620f27a290ccf5ac6d41f53f7c9b14d)
+2019-08-13 13:09:48,312  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (ed364727af1148422ebf6482c6f83b68)
+2019-08-13 13:10:09,016  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:10:09,017  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:10:09,695  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 13:10:10,602  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:11:54,571  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (242727592b8b241eb28faac9c667f208)
+2019-08-13 13:12:14,828  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:12:14,829  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:12:15,692  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 13:12:17,101  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:12:28,189  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 13:12:28,195  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 13:12:28,473  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 13:12:28,684  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 13:12:28,861  INFO [main] LogReports:21 - product quantity:
+2019-08-13 13:12:29,328  INFO [main] LogReports:21 - product total:?36.00
+2019-08-13 13:13:55,900  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (e28ef585ea7c660c60373a285bff334f)
+2019-08-13 13:14:15,325  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:14:15,326  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:14:16,099  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 13:14:17,078  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:19:44,696  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (d13e2340d8a025b1548ab102441f780b)
+2019-08-13 13:20:03,564  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:20:03,565  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:20:03,996  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 13:20:04,633  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:20:12,576  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 13:20:12,577  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 13:20:12,724  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 13:20:12,890  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 13:20:13,031  INFO [main] LogReports:21 - product quantity:
+2019-08-13 13:20:13,164  INFO [main] LogReports:21 - product total:?36.00
+2019-08-13 13:22:11,226  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (7f70a75ae093f75eedac261373824791)
+2019-08-13 13:23:17,641  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4726c5eaa8d3b094994f1fdf407a88dc)
+2019-08-13 13:23:43,792  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:23:43,792  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 13:23:45,203  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 13:23:46,478  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 13:24:00,818  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 13:24:00,819  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 13:24:01,332  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 13:24:01,714  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 13:24:02,525  INFO [main] LogReports:21 - product quantity:
+2019-08-13 13:24:03,050  INFO [main] LogReports:21 - product total:?36.00
+2019-08-13 14:27:47,811  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (35779ac96d81e12d5649e5ef87898ea9)
+2019-08-13 14:28:09,522  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:28:09,523  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:28:10,102  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 14:28:10,599  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 14:28:18,486  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:28:18,487  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:28:18,611  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:28:18,728  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:28:18,861  INFO [main] LogReports:21 - product quantity:
+2019-08-13 14:28:19,021  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 14:29:49,650  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6b09de5278eab00d5599a0a099962052)
+2019-08-13 14:30:09,033  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:30:09,033  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:30:09,514  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 14:30:10,039  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 14:30:17,350  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:30:17,350  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:30:17,445  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:30:17,557  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:30:17,649  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 14:32:33,544  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (82735b953773e944b46b910ed8cc6a73)
+2019-08-13 14:32:51,689  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:32:51,690  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:32:52,237  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 14:32:52,875  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 14:33:00,458  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:33:00,459  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:33:00,668  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:33:00,871  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:33:01,048  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 14:39:51,569  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (efb82c63ddbc74a086f3bc662c242518)
+2019-08-13 14:40:07,716  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:40:07,717  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:41:30,675  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6ba16488bc144c6554197e6048ed8868)
+2019-08-13 14:41:48,484  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:41:48,484  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:41:48,905  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 14:41:49,475  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 14:41:57,487  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:41:57,488  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:41:57,628  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:41:57,764  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:41:57,919  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 14:42:04,490  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 14:42:04,491  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 14:49:51,273  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1d330cfe38e028dbc1b9b0547c304735)
+2019-08-13 14:50:09,485  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:50:09,486  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 14:50:09,964  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 14:50:10,484  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 14:50:18,916  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:50:18,916  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:50:19,059  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:50:19,193  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:50:19,349  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 14:50:26,100  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 14:50:26,101  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 14:50:26,607  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 14:50:27,346  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 14:50:32,727  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 14:50:32,728  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 14:50:32,823  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 14:50:32,929  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 14:50:33,022  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:03:17,742  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (637a4deff32f3bc1d20ec26e2dc74295)
+2019-08-13 15:03:38,156  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:03:38,156  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:03:38,879  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:03:39,623  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:03:48,393  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:03:48,393  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:03:48,588  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:03:48,781  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:03:48,931  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:03:54,746  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:03:54,747  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:03:55,266  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:03:55,882  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:04:01,167  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:04:01,168  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:04:01,321  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:04:01,535  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:04:01,712  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:11:46,048  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (bb4fc889e7b00033ca6319590cca7714)
+2019-08-13 15:12:09,218  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:12:09,219  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:12:09,728  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:12:10,301  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:12:18,839  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:12:18,840  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:12:19,021  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:12:19,190  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:12:19,362  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:12:26,610  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:12:26,611  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:12:27,144  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:12:27,812  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:12:34,497  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:12:34,497  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:12:34,614  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:12:34,724  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:12:34,870  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:14:14,909  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (907b744250c60d64ff7b44f1196a127c)
+2019-08-13 15:14:32,838  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:14:32,839  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:14:33,536  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:14:34,357  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:14:46,454  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:14:46,455  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:14:47,119  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:14:47,889  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:15:53,852  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (e6053f148ec83dc388080a79b4f1eb7a)
+2019-08-13 15:16:16,092  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:16:16,093  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:16:17,034  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:16:18,102  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:16:39,882  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:16:39,883  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:16:41,176  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:16:42,413  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:16:58,527  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:16:58,528  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:16:58,677  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:16:58,988  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:16:59,553  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:28:12,441  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (9f9999a1a905fecbb44476ab7db3afe1)
+2019-08-13 15:28:34,232  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:28:34,232  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:28:34,769  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:28:35,341  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:28:46,218  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:28:46,219  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:28:46,988  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:28:47,965  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:28:59,333  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:28:59,334  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:28:59,463  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:28:59,643  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:28:59,789  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:28:59,891  INFO [main] LogReports:21 - product name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:29:00,078  INFO [main] LogReports:21 - product price:?18.00
+2019-08-13 15:29:00,612  INFO [main] LogReports:21 - product total:?18.00
+2019-08-13 15:35:33,576  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (b76ba67aab1f19b716687c7e688dbe8a)
+2019-08-13 15:36:24,723  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (24a6176de03b07f6d7be8890a60a2fc8)
+2019-08-13 15:36:48,725  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:36:48,725  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:36:49,220  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:36:49,821  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:36:59,951  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:36:59,952  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:37:00,344  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:37:00,836  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:37:09,132  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:37:09,133  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:44:50,470  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (d7b9620acb88ff0da57c5026d474e926)
+2019-08-13 15:45:09,977  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:45:09,977  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:45:10,386  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:45:10,961  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:45:22,123  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:45:22,124  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:45:22,571  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:45:23,206  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:45:32,642  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:45:32,643  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:45:32,773  INFO [main] LogReports:21 - product1 name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:45:32,881  INFO [main] LogReports:21 - product1 price:?18.00
+2019-08-13 15:45:32,987  INFO [main] LogReports:21 - product2 name:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 15:46:52,459  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4c5b8b3972664247bf5a342693be1d79)
+2019-08-13 15:47:11,500  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:47:11,501  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:47:12,305  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:47:13,191  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:47:24,938  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:47:24,938  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:47:25,661  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:47:26,461  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:47:37,787  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:47:37,788  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:47:37,995  INFO [main] LogReports:21 - product1 name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:47:38,263  INFO [main] LogReports:21 - product1 price:?18.00
+2019-08-13 15:47:38,497  INFO [main] LogReports:21 - product2 name:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 15:53:43,685  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3f22e4c027e43c97b633c37522312f27)
+2019-08-13 15:54:03,920  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:54:03,921  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:54:04,453  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:54:05,193  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:54:15,476  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:54:15,477  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:54:16,232  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:54:17,172  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:54:26,960  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:54:26,960  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:54:27,529  INFO [main] LogReports:21 - product1 name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:54:27,530  INFO [main] LogReports:21 - product1 price:?18.00
+2019-08-13 15:54:27,720  INFO [main] LogReports:21 - product2 name:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 15:54:27,721  INFO [main] LogReports:21 - product2 price:?15.00
+2019-08-13 15:55:55,196  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (28f8ef4a4b9c3fcc2d64015892cf1f68)
+2019-08-13 15:56:14,973  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:56:14,974  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 15:56:15,829  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 15:56:16,803  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 15:56:29,747  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:56:29,747  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 15:56:30,389  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 15:56:31,519  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 15:56:46,121  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 15:56:46,122  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 15:56:46,765  INFO [main] LogReports:21 - product1 name:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 15:56:46,766  INFO [main] LogReports:21 - product1 price:?18.00
+2019-08-13 15:56:46,964  INFO [main] LogReports:21 - product2 name:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 15:56:46,964  INFO [main] LogReports:21 - product2 price:?15.00
+2019-08-13 15:56:46,965  INFO [main] LogReports:21 - Total Price of the product:?18.00?15.00?18.00?15.00
+2019-08-13 15:59:50,263  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (98d1c899c2d4d3097691e02c35439b61)
+2019-08-13 16:00:11,309  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:00:11,309  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:00:12,122  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:00:12,779  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:00:25,862  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:00:25,863  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:00:26,675  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:00:27,564  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:00:39,908  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:00:39,909  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:00:40,533  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:00:40,534  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:00:40,704  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:00:40,705  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 16:03:33,694  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5b2d9c50f7126c0617bb2a43d859f2ae)
+2019-08-13 16:03:55,096  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:03:55,097  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:03:55,904  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:03:56,722  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:04:10,410  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:04:10,411  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:04:11,108  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:04:12,485  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:04:26,980  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:04:26,981  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:04:27,995  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:04:27,996  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:04:28,392  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:04:28,393  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 16:20:25,584  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6491083a9024aae14144fbd9e3f2ca7f)
+2019-08-13 16:21:01,031  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:21:01,033  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:21:02,449  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:21:04,598  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:22:15,445  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (957d477e8c71269fa2ccec004102e054)
+2019-08-13 16:23:30,512  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5863d2479bca00475d37327ba9167a93)
+2019-08-13 16:25:01,041  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (17688b4c413dc8d5557929ce23b89b7b)
+2019-08-13 16:26:30,453  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5b02ee7a7cf7c16a7cf396f6199c8667)
+2019-08-13 16:30:14,856  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (ac870e26eb3bc77f62d1c3271410a59c)
+2019-08-13 16:30:42,721  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:30:42,721  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:30:43,966  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:30:45,316  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:31:04,888  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:31:04,889  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:31:07,003  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:31:09,052  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:31:28,843  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:31:28,845  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:31:30,440  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:31:30,444  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:31:30,801  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:31:30,803  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 16:31:37,500  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (7d920f17fc8f21657d943322b79fa9bc)
+2019-08-13 16:38:03,278  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (2d5f431edef9b091d3470377632ddd09)
+2019-08-13 16:38:29,771  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:38:29,771  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:38:30,969  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:38:32,225  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:38:54,355  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:38:54,357  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:38:55,438  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:38:56,522  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:39:14,550  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:39:14,551  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:39:15,130  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:40:37,993  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1d927835343d645bdcee693e511e2f11)
+2019-08-13 16:41:06,249  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:41:06,252  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:41:07,788  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:41:09,092  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:41:30,802  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:41:30,807  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:41:32,397  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:41:33,327  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:41:56,705  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:41:56,706  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:41:58,887  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:41:58,890  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:41:59,748  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:42:46,504  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1787a94b7292bd2492a657fc55c95f6b)
+2019-08-13 16:43:11,919  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:43:11,920  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:43:13,702  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:43:15,704  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:43:38,333  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:43:38,334  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:43:39,766  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:43:41,464  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:43:57,650  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:43:57,652  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:43:58,728  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:43:58,731  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:43:58,969  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:43:58,970  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 16:53:03,518  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3647934245e3a46693bd064e253f29be)
+2019-08-13 16:53:35,512  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:53:35,513  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 16:53:37,538  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 16:53:39,885  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 16:54:07,373  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:54:07,374  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 16:54:09,048  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 16:54:11,324  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 16:54:36,478  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 16:54:36,479  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 16:54:38,263  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 16:54:38,264  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 16:54:39,036  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 16:54:39,037  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 16:54:39,038  INFO [main] LogReports:21 - Total Price of the product?18.00?15.00
+2019-08-13 16:58:04,757  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6429f3cac9bda1e1b5fdd3282a8e1580)
+2019-08-13 16:59:48,097  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (619736e125ba1a0256d8822e2628f9d5)
+2019-08-13 17:01:14,890  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (22b07101410227a8d2bb27c60dd32dcc)
+2019-08-13 17:04:00,190  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (bac901e02492d0a627aff324675a6a67)
+2019-08-13 17:05:24,187  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (c3c97bbbaef9c1e34ce427d2775e4752)
+2019-08-13 17:05:38,736  INFO [main] LogReports:21 - 
+2019-08-13 17:19:17,259  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (a969a6e992cf1bbf3e38596877ef1dd4)
+2019-08-13 17:21:20,708  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3768745b7ef36011317e5849f8d3bbe4)
+2019-08-13 17:22:52,223  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (35b4fd06f4993c5f7ce59675ab46a67d)
+2019-08-13 17:28:09,336  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (aa6038fd275fa38325c03325d241c610)
+2019-08-13 17:28:38,258  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 17:28:38,259  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 17:28:38,964  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 17:28:40,094  INFO [main] LogReports:21 - selected option: L
+2019-08-13 17:37:52,877  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0d02a472db8b48268481329b91d8f5c5)
+2019-08-13 17:38:19,782  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 17:38:19,783  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 17:38:20,385  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 17:38:21,318  INFO [main] LogReports:21 - selected option: L
+2019-08-13 17:38:43,986  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:38:43,987  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:41:10,343  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (594aa5620e5ddaf217322e866cf8f78e)
+2019-08-13 17:41:49,288  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 17:41:49,289  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 17:41:50,359  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 17:41:51,438  INFO [main] LogReports:21 - selected option: L
+2019-08-13 17:42:17,294  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:42:17,295  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:42:18,208  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 17:42:19,441  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 17:42:39,491  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 17:42:39,492  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 17:42:40,818  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 17:42:40,819  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 17:42:42,679  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 17:42:42,685  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 17:42:42,688  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 17:48:29,243  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (04680af2e0ce9e90e3941a07760f4b13)
+2019-08-13 17:48:59,270  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 17:48:59,270  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 17:49:00,433  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 17:49:01,582  INFO [main] LogReports:21 - selected option: L
+2019-08-13 17:49:24,505  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:49:24,506  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:49:26,563  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 17:49:27,800  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 17:49:45,245  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 17:49:45,246  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 17:49:46,515  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 17:49:46,516  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 17:49:47,145  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 17:49:47,145  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 17:49:47,146  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 17:49:49,573  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 17:49:49,574  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 17:49:50,053  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 17:49:50,054  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 17:49:50,326  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 17:49:50,327  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 17:49:50,328  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 17:52:13,565  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (7b05c8722918202031c424573b082120)
+2019-08-13 17:52:46,850  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 17:52:46,851  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 17:52:47,394  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 17:52:48,321  INFO [main] LogReports:21 - selected option: L
+2019-08-13 17:53:13,618  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:53:13,619  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 17:53:15,526  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 17:53:16,484  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 17:53:35,504  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 17:53:35,505  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 17:53:37,070  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 17:53:37,073  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 17:53:37,428  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 17:53:37,428  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 17:53:37,429  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 17:53:38,973  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 17:53:38,974  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 17:53:40,716  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 17:53:40,717  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 17:53:40,877  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 17:53:40,878  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 17:53:40,879  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 17:59:07,377  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f69b66b0bca3ee4d7d675edabb46b40b)
+2019-08-13 18:00:26,822  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (a1d94f201b84baf4da0f8fb276ac7af9)
+2019-08-13 18:01:04,516  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:01:04,517  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:01:05,179  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:01:06,299  INFO [main] LogReports:21 - selected option: L
+2019-08-13 18:01:33,789  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:01:33,790  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:01:36,179  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:01:39,848  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 18:01:54,685  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:01:54,686  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:01:55,668  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 18:01:55,669  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 18:01:56,306  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 18:01:56,306  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 18:01:56,307  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 18:02:46,284  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (52da09bd0b71f0a94ba9c9401de24bdf)
+2019-08-13 18:03:31,666  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:03:31,668  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:03:34,404  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:03:37,539  INFO [main] LogReports:21 - selected option: L
+2019-08-13 18:04:15,731  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:04:15,738  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:04:20,078  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:04:24,606  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 18:04:49,961  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:04:49,962  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:04:51,184  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 18:04:51,185  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 18:04:51,967  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 18:04:51,968  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 18:04:51,969  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 18:05:00,840  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:05:00,841  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:14:12,337  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3c369456bc7240e340392fc45bc6d64a)
+2019-08-13 18:14:35,071  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:14:35,072  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:14:36,021  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:14:37,029  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:14:49,865  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:14:49,866  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:14:50,873  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:14:51,907  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:15:08,776  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:15:08,777  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:15:09,278  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:15:09,278  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:15:09,415  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:15:09,416  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:15:09,416  INFO [main] LogReports:21 - Total Price of the product?18.00?15.00
+2019-08-13 18:15:15,632  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4894d293a280d8b8acf82187895a4b4d)
+2019-08-13 18:15:48,597  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:15:48,597  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:15:49,214  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:15:50,299  INFO [main] LogReports:21 - selected option: L
+2019-08-13 18:16:10,107  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:16:10,108  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:16:10,790  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:16:11,618  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 18:16:33,817  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:16:33,820  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:16:35,245  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 18:16:35,246  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 18:16:35,767  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 18:16:35,768  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 18:16:35,768  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 18:25:22,190  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (bd02e5fc5ea551188c25bb1dfc14fb30)
+2019-08-13 18:25:43,986  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:25:43,987  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:25:45,215  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:25:46,257  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:26:11,255  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:26:11,256  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:26:12,392  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:26:13,590  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:26:32,586  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:26:32,587  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:26:34,345  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:26:34,346  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:26:34,654  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:26:34,655  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:26:34,656  INFO [main] LogReports:21 - Total Price of the product?18.00?15.00
+2019-08-13 18:26:41,035  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0a6779eda0fdc33574b06e5f32ff14fb)
+2019-08-13 18:27:19,387  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:27:19,396  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:27:20,526  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:27:21,717  INFO [main] LogReports:21 - selected option: L
+2019-08-13 18:27:55,092  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:27:55,098  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:27:56,729  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:27:58,307  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 18:28:15,428  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:28:15,438  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:28:16,669  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 18:28:16,670  INFO [main] LogReports:21 - Price of the product1:?100.00
+2019-08-13 18:28:17,086  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 18:28:17,087  INFO [main] LogReports:21 - Price of the product2:?20.00
+2019-08-13 18:28:17,087  INFO [main] LogReports:21 - Total Price of the product?100.00?20.00
+2019-08-13 18:29:58,584  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3906d0ebd9474613f1d6ea76ea4b55f2)
+2019-08-13 18:30:25,124  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:30:25,128  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:30:26,287  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:30:27,326  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:30:52,131  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (39d35140dd409b677197461726e193ca)
+2019-08-13 18:31:37,292  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:31:37,293  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:31:38,648  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:31:40,889  INFO [main] LogReports:21 - selected option: L
+2019-08-13 18:32:21,507  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:32:21,508  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 18:32:23,367  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:32:25,229  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 18:43:34,033  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4c466fe8e5dda7fcc4fd5b5a04310dbc)
+2019-08-13 18:43:57,045  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:43:57,046  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:43:58,738  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:43:59,771  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:44:16,931  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:44:16,933  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:44:19,106  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:44:21,394  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:44:42,006  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:44:42,007  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:44:43,641  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:44:43,642  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:44:43,838  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:44:43,839  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:45:48,080  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (de319a59660712b09eaa0532a4251f9a)
+2019-08-13 18:46:15,891  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:46:15,892  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:46:17,092  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:46:18,414  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:46:39,250  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:46:39,251  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:46:40,389  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:46:42,052  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:47:01,010  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:47:01,011  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:47:03,713  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:47:03,717  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:47:04,692  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:47:04,693  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:48:50,505  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (d4c91db42df67846f04d363f25210a8f)
+2019-08-13 18:49:15,546  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:49:15,547  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:49:17,250  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:49:19,684  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:49:41,772  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:49:41,772  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:49:42,873  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:49:44,151  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:50:00,305  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:50:00,306  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:50:01,824  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:50:01,825  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:50:02,183  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:50:02,184  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:52:14,512  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (183e2c185d22067a41443e73e7559842)
+2019-08-13 18:52:40,446  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:52:40,446  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 18:52:41,880  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 18:52:43,574  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 18:53:03,791  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:53:03,792  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 18:53:05,367  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 18:53:06,563  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 18:53:33,405  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 18:53:33,405  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 18:53:36,424  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 18:53:36,425  INFO [main] LogReports:21 - Price of the product1:?18.00
+2019-08-13 18:53:36,865  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 18:53:36,866  INFO [main] LogReports:21 - Price of the product2:?15.00
+2019-08-13 18:53:37,318  INFO [main] LogReports:21 - 18.00
+2019-08-13 18:55:49,407  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (115eb41f44e7d917631587703b7d8338)
+2019-08-13 18:58:45,934  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (65df7bea826224105405520e5fe72773)
+2019-08-13 18:59:32,026  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 18:59:32,027  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 18:59:33,951  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 18:59:36,357  INFO [main] LogReports:21 - selected option: L
+2019-08-13 19:00:16,514  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:00:16,516  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:00:21,866  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 19:00:24,533  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 19:01:33,254  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (cdd13d3a693645060c757c7b8ccb3844)
+2019-08-13 19:02:29,325  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0af277d04331dc0d1040371b702d40f6)
+2019-08-13 19:03:17,145  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 19:03:17,146  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 19:03:20,076  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 19:03:22,536  INFO [main] LogReports:21 - selected option: L
+2019-08-13 19:04:06,890  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:04:06,891  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:04:12,351  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 19:04:15,488  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 19:04:38,874  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 19:04:38,875  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 19:04:40,746  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 19:04:40,747  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-13 19:04:41,967  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 19:04:41,970  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-13 19:04:43,068  INFO [main] LogReports:21 - 100.00
+2019-08-13 19:04:43,249  INFO [main] LogReports:21 - 20.00
+2019-08-13 19:04:43,251  INFO [main] LogReports:21 - total price: 120.0
+2019-08-13 19:12:03,556  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (cd8294367956a72e9b150ff0338da4c3)
+2019-08-13 19:13:21,325  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0fff55469bcd0b52bb4eed7a55e0f596)
+2019-08-13 19:14:09,098  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (630e818cd2a9efe5d635f8030d9ad088)
+2019-08-13 19:15:37,287  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1e2a85e900ebf27faa60730cb2e91ba6)
+2019-08-13 19:16:13,312  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 19:16:13,313  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 19:16:15,137  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 19:16:18,087  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 19:16:52,737  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 19:16:52,738  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 19:16:55,349  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 19:16:57,712  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 19:17:31,557  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 19:17:31,558  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 19:17:33,349  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 19:17:33,350  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-13 19:17:33,751  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 19:17:33,752  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-13 19:17:34,018  INFO [main] LogReports:21 - 18.00
+2019-08-13 19:17:34,124  INFO [main] LogReports:21 - 15.00
+2019-08-13 19:17:34,125  INFO [main] LogReports:21 - total price: 33.0
+2019-08-13 19:21:20,510  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (e265ef077e94743f57c0d76b249e7450)
+2019-08-13 19:22:14,272  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1de3af52435a300ee1c447a9975f315c)
+2019-08-13 19:25:36,809  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (dc962ae25b5113946480d8b3a4d0addd)
+2019-08-13 19:27:34,417  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (7371333e6a4625ffde582566a46190d2)
+2019-08-13 19:32:20,432  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (b3ee6cd4992ec5f13aaf669f88886a8a)
+2019-08-13 19:33:01,407  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 19:33:01,408  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-13 19:33:04,028  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 19:33:06,112  INFO [main] LogReports:21 - selected option: 34
+2019-08-13 19:33:33,732  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 19:33:33,734  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-13 19:33:36,116  INFO [main] LogReports:21 - selected option: Pink
+2019-08-13 19:33:37,407  INFO [main] LogReports:21 - selected option: 36
+2019-08-13 19:33:59,046  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 19:33:59,047  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 19:34:01,168  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-13 19:34:01,170  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-13 19:34:01,743  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-13 19:34:01,744  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-13 19:34:02,101  INFO [main] LogReports:21 - 18.00
+2019-08-13 19:34:02,517  INFO [main] LogReports:21 - 15.00
+2019-08-13 19:34:02,519  INFO [main] LogReports:21 - total price: 33.0
+2019-08-13 19:34:22,763  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (af3e4ff6ee4b8da439e285cb4bd4d73f)
+2019-08-13 19:35:04,150  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-13 19:35:04,151  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-13 19:35:05,084  INFO [main] LogReports:21 - selected option: Red
+2019-08-13 19:35:08,448  INFO [main] LogReports:21 - selected option: L
+2019-08-13 19:35:46,284  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:35:46,286  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-13 19:35:49,592  INFO [main] LogReports:21 - selected option: Black
+2019-08-13 19:35:53,020  INFO [main] LogReports:21 - selected option: Small
+2019-08-13 19:36:19,370  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-13 19:36:19,371  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-13 19:36:20,613  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-13 19:36:20,615  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-13 19:36:21,109  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-13 19:36:21,110  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-13 19:36:21,390  INFO [main] LogReports:21 - 100.00
+2019-08-13 19:36:21,785  INFO [main] LogReports:21 - 20.00
+2019-08-13 19:36:21,786  INFO [main] LogReports:21 - total price: 120.0
