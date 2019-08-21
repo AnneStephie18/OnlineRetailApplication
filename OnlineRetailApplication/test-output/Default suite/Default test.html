@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Aug 13 19:27:19 IST 2019</td>
+<td>Started on:</td><td>Wed Aug 21 18:44:55 IST 2019</td>
 </tr>
-<tr><td>Total time:</td><td>68 seconds (68394 ms)</td>
+<tr><td>Total time:</td><td>169 seconds (169482 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,28 +76,16 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct()'><b>searchProduct</b><br>Test class: com.onlineretail.qa.testscripts.AutomateSearchedProduct</td>
-<td><div><pre>org.openqa.selenium.TimeoutException: timeout
-  (Session info: chrome=76.0.3809.100)
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;ATMECSINDT-076&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\ANNE~1.SIV\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 7371333e6a4625ffde582566a46190d2
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at com.onlineretail.qa.utils.CommonUtilityMethods.click(CommonUtilityMethods.java:42)
-	at com.onlineretail.qa.pages.SearchedProduct.searchItem(SearchedProduct.java:19)
-	at com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct(AutomateSearchedProduct.java:24)
+<td><div><pre>java.lang.AssertionError: passed expected [LACK CROSS BACK MAXI DRESS] but found [BLACK CROSS BACK MAXI DRESS]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at com.onlineretail.qa.utils.CommonUtilityMethods.verifyAssertTitle(CommonUtilityMethods.java:34)
+	at com.onlineretail.qa.pages.SelectedProduct.verifyTitle(SelectedProduct.java:34)
+	at com.onlineretail.qa.pages.SearchedProduct.searchItem(SearchedProduct.java:24)
+	at com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct(AutomateSearchedProduct.java:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -122,29 +110,17 @@ Session ID: 7371333e6a4625ffde582566a46190d2
 	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
-</pre></div><a href='#' onClick='toggleBox("stack-trace1593458942", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1593458942'><pre>org.openqa.selenium.TimeoutException: timeout
-  (Session info: chrome=76.0.3809.100)
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
-System info: host: &apos;ATMECSINDT-076&apos;, ip: &apos;192.168.56.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_211&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 76.0.3809.100, chrome: {chromedriverVersion: 75.0.3770.140 (2d9f97485c7b..., userDataDir: C:\Users\ANNE~1.SIV\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:64835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 7371333e6a4625ffde582566a46190d2
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
-	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
-	at com.onlineretail.qa.utils.CommonUtilityMethods.click(CommonUtilityMethods.java:42)
-	at com.onlineretail.qa.pages.SearchedProduct.searchItem(SearchedProduct.java:19)
-	at com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct(AutomateSearchedProduct.java:24)
+</pre></div><a href='#' onClick='toggleBox("stack-trace632071960", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace632071960'><pre>java.lang.AssertionError: passed expected [LACK CROSS BACK MAXI DRESS] but found [BLACK CROSS BACK MAXI DRESS]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at com.onlineretail.qa.utils.CommonUtilityMethods.verifyAssertTitle(CommonUtilityMethods.java:34)
+	at com.onlineretail.qa.pages.SelectedProduct.verifyTitle(SelectedProduct.java:34)
+	at com.onlineretail.qa.pages.SearchedProduct.searchItem(SearchedProduct.java:24)
+	at com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct(AutomateSearchedProduct.java:33)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -170,8 +146,8 @@ Session ID: 7371333e6a4625ffde582566a46190d2
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
 </pre></div></td>
-<td>29</td>
-<td>com.onlineretail.qa.testscripts.AutomateSearchedProduct@5d624da6</td></tr>
+<td>89</td>
+<td>com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876</td></tr>
 </table><p>
 </body>
 </html>

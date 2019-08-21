@@ -5,7 +5,6 @@ import org.openqa.selenium.WebDriver;
 import com.onlineretail.qa.helper.Helper;
 import com.onlineretail.qa.logreports.LogReports;
 import com.onlineretail.qa.utils.CommonUtilityMethods;
-
 public class SearchedProduct {
 	CommonUtilityMethods commonutilityobject=new CommonUtilityMethods();
 	Helper helperobject=Helper.getInstance();

@@ -13,6 +13,7 @@
           <include name="searchProduct"/>
           <include name="preSetup"/>
           <include name="tearDown"/>
+          <include name="getResult"/>
         </methods>
       </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
     </classes>
