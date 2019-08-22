@@ -9,6 +9,7 @@ import java.util.List;
 import java.util.Properties;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -35,7 +36,7 @@ public class Helper {
 			wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(getValue(xpath))));
 			wait.until(ExpectedConditions.elementToBeClickable(By.xpath(getValue(xpath))));
 		} 
-		catch (Exception e) 
+		catch (TimeoutException e) 
 		{
 			return false;
 		}

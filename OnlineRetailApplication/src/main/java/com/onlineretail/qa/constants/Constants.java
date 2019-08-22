@@ -7,7 +7,6 @@ import java.io.File;
 
 public class Constants {
     public final static String PROJECT_BASE_PATH= System.getProperty("user.dir");
-    public final static long PAGE_LODE_TIMEOUT = 10;
 	public final static long IMPLICIT_WAIT = 10;
 	public final static long WEB_DRIVER_WAIT = 10;
 	public final static String PROJECT_CHROMEPATH=PROJECT_BASE_PATH+File.separator+"lib"+File.separator+"chromedriver.exe";

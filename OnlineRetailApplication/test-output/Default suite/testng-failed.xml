@@ -3,19 +3,7 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test verbose="2" name="Default test">
     <classes>
-      <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct"/>
+      <class name="com.onlineretail.qa.testscripts.AutomateSelectedProduct"/>
     </classes>
   </test> <!-- Default test -->
-  <test name="Default test(failed)">
-    <classes>
-      <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
-        <methods>
-          <include name="searchProduct"/>
-          <include name="preSetup"/>
-          <include name="tearDown"/>
-          <include name="getResult"/>
-        </methods>
-      </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
-    </classes>
-  </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

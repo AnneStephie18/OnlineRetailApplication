@@ -39,7 +39,8 @@ public class CommonUtilityMethods  {
  //perform click operation by passing xpath as parameter
 public void click(WebDriver driver,String clickxpath)
 	{    helperobject.explixitWait(driver,clickxpath);
-		 driver.findElement(By.xpath(helperobject.getValue(clickxpath))).click();		 
+		 driver.findElement(By.xpath(helperobject.getValue(clickxpath))).click();	
+		 
 	}
 	
 //navigate to the previous page

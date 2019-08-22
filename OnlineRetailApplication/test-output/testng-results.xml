@@ -1,78 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="1" passed="0">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="169482" started-at="2019-08-21T13:14:55Z" finished-at="2019-08-21T13:17:44Z">
+  <suite name="Default suite" duration-ms="110611" started-at="2019-08-22T11:20:48Z" finished-at="2019-08-22T11:22:39Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="169482" started-at="2019-08-21T13:14:55Z" finished-at="2019-08-21T13:17:44Z">
-      <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876]" name="preSetup" is-config="true" duration-ms="74348" started-at="2019-08-21T18:44:55Z" finished-at="2019-08-21T18:46:09Z">
+    <test name="Default test" duration-ms="110611" started-at="2019-08-22T11:20:48Z" finished-at="2019-08-22T11:22:39Z">
+      <class name="com.onlineretail.qa.testscripts.AutomateSelectedProduct">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@59e84876]" name="preSetup" is-config="true" duration-ms="75461" started-at="2019-08-22T16:50:48Z" finished-at="2019-08-22T16:52:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="FAIL" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876]" name="searchProduct" duration-ms="89222" started-at="2019-08-21T18:46:09Z" finished-at="2019-08-21T18:47:38Z">
-          <exception class="java.lang.AssertionError">
-            <message>
-              <![CDATA[passed expected [LACK CROSS BACK MAXI DRESS] but found [BLACK CROSS BACK MAXI DRESS]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: passed expected [LACK CROSS BACK MAXI DRESS] but found [BLACK CROSS BACK MAXI DRESS]
-	at org.testng.Assert.fail(Assert.java:94)
-	at org.testng.Assert.failNotEquals(Assert.java:513)
-	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
-	at org.testng.Assert.assertEquals(Assert.java:116)
-	at org.testng.Assert.assertEquals(Assert.java:190)
-	at com.onlineretail.qa.utils.CommonUtilityMethods.verifyAssertTitle(CommonUtilityMethods.java:34)
-	at com.onlineretail.qa.pages.SelectedProduct.verifyTitle(SelectedProduct.java:34)
-	at com.onlineretail.qa.pages.SearchedProduct.searchItem(SearchedProduct.java:24)
-	at com.onlineretail.qa.testscripts.AutomateSearchedProduct.searchProduct(AutomateSearchedProduct.java:33)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
-	at java.lang.reflect.Method.invoke(Unknown Source)
-	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
-	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
-	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:822)
-	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1130)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
-	at org.testng.TestRunner.privateRun(TestRunner.java:782)
-	at org.testng.TestRunner.run(TestRunner.java:632)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
-	at org.testng.TestNG.run(TestNG.java:1064)
-	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:113)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:206)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:177)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+        <test-method status="PASS" signature="selectProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@59e84876]" name="selectProduct" duration-ms="31363" started-at="2019-08-22T16:52:04Z" finished-at="2019-08-22T16:52:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- searchProduct -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876]" name="getResult" is-config="true" duration-ms="2" started-at="2019-08-21T18:47:42Z" finished-at="2019-08-21T18:47:42Z">
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@59e84876]" name="getResult" is-config="true" duration-ms="997" started-at="2019-08-22T16:52:35Z" finished-at="2019-08-22T16:52:36Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=searchProduct status=FAILURE method=AutomateSearchedProduct.searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876] output={null}]]]>
+                <![CDATA[[TestResult name=selectProduct status=SUCCESS method=AutomateSelectedProduct.selectProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@59e84876] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@59e84876]" name="tearDown" is-config="true" duration-ms="1972" started-at="2019-08-21T18:47:42Z" finished-at="2019-08-21T18:47:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@59e84876]" name="tearDown" is-config="true" duration-ms="2766" started-at="2019-08-22T16:52:36Z" finished-at="2019-08-22T16:52:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
+      </class> <!-- com.onlineretail.qa.testscripts.AutomateSelectedProduct -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

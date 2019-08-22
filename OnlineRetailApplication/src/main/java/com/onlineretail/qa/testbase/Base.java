@@ -63,6 +63,7 @@ public class Base {
 		}
 		test.log(LogStatus.INFO, "Chrome Browser Launched Successfully");
 		driver.get(helperobject.getValue("url"));
+		
 		driver.manage().window().maximize();
 		test.log(LogStatus.INFO,"Navigated to URL");
 		

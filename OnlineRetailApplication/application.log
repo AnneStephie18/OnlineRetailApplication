@@ -1868,3 +1868,39 @@ SIZE:
 2019-08-21 18:47:42,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2019-08-21 18:47:42,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2019-08-21 18:47:42,750 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-22 16:50:59,651  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (79f6ab32f52bc768f7a6147d29a2ac1a)
+2019-08-22 16:52:04,207  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-22 16:52:09,577  INFO [main] LogReports:21 - Titleblack lux graphic t-shirt – ToolsQA Demo Site
+2019-08-22 16:52:09,745  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-22 16:52:09,745  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-22 16:52:10,314  INFO [main] LogReports:21 - selected option: Black
+2019-08-22 16:52:10,943  INFO [main] LogReports:21 - selected option: 34
+2019-08-22 16:52:11,502  INFO [main] LogReports:21 - Titleblack lux graphic t-shirt – ToolsQA Demo Site
+2019-08-22 16:52:16,697  INFO [main] LogReports:21 - Titleblack lux graphic t-shirt – ToolsQA Demo Site
+2019-08-22 16:52:22,193  INFO [main] LogReports:21 - Titlepink drop shoulder oversized t shirt – ToolsQA Demo Site
+2019-08-22 16:52:22,341  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-22 16:52:22,342  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-22 16:52:23,162  INFO [main] LogReports:21 - selected option: Pink
+2019-08-22 16:52:24,501  INFO [main] LogReports:21 - selected option: 36
+2019-08-22 16:52:26,322  INFO [main] LogReports:21 - Titlepink drop shoulder oversized t shirt – ToolsQA Demo Site
+2019-08-22 16:52:29,076  INFO [main] LogReports:21 - Titlepink drop shoulder oversized t shirt – ToolsQA Demo Site
+2019-08-22 16:52:33,364  INFO [main] LogReports:21 - TitleCart – ToolsQA Demo Site
+2019-08-22 16:52:33,458  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-22 16:52:33,458  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-22 16:52:33,846  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-22 16:52:33,846  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-22 16:52:33,973  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-22 16:52:33,974  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-22 16:52:34,136  INFO [main] LogReports:21 - 18.00
+2019-08-22 16:52:34,190  INFO [main] LogReports:21 - 15.00
+2019-08-22 16:52:34,191  INFO [main] LogReports:21 - total price: 33.0
+2019-08-22 16:52:35,570  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-22 16:52:36,569  INFO [main] LogReports:21 - capture success
+2019-08-22 16:52:36,699 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-22 16:52:36,702 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-22 16:52:36,709 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-22 16:52:36,711 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
