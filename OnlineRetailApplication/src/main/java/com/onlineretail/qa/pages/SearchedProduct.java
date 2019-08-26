@@ -25,7 +25,7 @@ public class SearchedProduct {
 		selectproductobject.addToCart(driver, "dropdownmenu_color_value1", "dropdownmenu_size_value5", "dropdownmenu_quantity_value2");
 		commonutilityobject.navigateTo(driver);
 		commonutilityobject.click(driver, "carticon");
-		selectproductobject.viewCart(driver);
+		selectproductobject.viewCart(driver,"grand_total_for_maxi_expected");
 		commonutilityobject.click(driver, "remove_item");
 		commonutilityobject.navigateTo(driver);
 	}

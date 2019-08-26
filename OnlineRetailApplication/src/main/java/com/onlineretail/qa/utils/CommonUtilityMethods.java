@@ -60,18 +60,22 @@ public void click(WebDriver driver,String clickxpath)
 	{
 		driver.findElement(By.xpath(helperobject.getValue(xpath))).sendKeys(helperobject.getValue(key));
 		driver.findElement(By.xpath(helperobject.getValue(xpath))).sendKeys(Keys.ENTER);
+		
 	}
 	// find total sum of cost
-	public void totalPrice(WebDriver driver,String xpath)
+	public void totalPrice(WebDriver driver,String xpath,String totalXpath,String expected)
 	{
 	List<WebElement> totalcost= driver.findElements(By.xpath(helperobject.getValue(xpath)));
 	double sumprice=0;
 	for(WebElement price:totalcost)
 	{
 		String total = price.getText().replace("₹", "");
-		log.info(total);
+		
 		sumprice= sumprice+Double.parseDouble(total);
 	}
 	log.info("total price: "+sumprice);
+	String grandTotal=getTitle(driver,totalXpath);
+	Assert.assertEquals(grandTotal.replace("₹", ""),helperobject.getValue(expected),"passed");
+	log.info("Expected Grand Total:"+helperobject.getValue(expected));
 	}
 }

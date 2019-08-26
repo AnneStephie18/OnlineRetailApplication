@@ -25,7 +25,7 @@ public class SelectedProduct {
 		addToCart(driver, "dropdownmenu_color_value3", "dropdownmenu_size_value3", helperobject.getValue("dropdownmenu_quantity_value2"));
 		commonutilityobject.navigateTo(driver);//viewCart(driver);
 		commonutilityobject.click(driver, "carticon");
-		viewCart(driver);
+		viewCart(driver,"grand_total_for_tshirt_expected");
 		commonutilityobject.navigateTo(driver);
 	}
 	public void verifyTitle(WebDriver driver, String expectedtitle)
@@ -48,7 +48,7 @@ public class SelectedProduct {
 		}
 		commonutilityobject.click(driver, "addtocart_button");
 	}
-	public void viewCart(WebDriver driver)
+	public void viewCart(WebDriver driver,String expected)
 	{
 	    verifyTitle(driver, "cart_expectedtitle");
 	    String productItem1Price=commonutilityobject.getTitle(driver, "product1_price");
@@ -59,7 +59,8 @@ public class SelectedProduct {
 	    log.info("Name of the product2:"+commonutilityobject.getTitle(driver, "product2_name"));
 	    String Item2Price=productItem2Price.replace("₹","0");
 	    log.info("Price of the product2:"+Item2Price);
-	    commonutilityobject.totalPrice(driver, "total_price");
+	    commonutilityobject.totalPrice(driver, "total_price","grand_total",expected);
+	    
 	}
 	
 }
