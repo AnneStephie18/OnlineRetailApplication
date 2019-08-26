@@ -15,6 +15,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.onlineretail.qa.constants.Constants;
+import com.onlineretail.qa.utils.ExcelUtils;
 /**
  * This class is used to load properties file and explicit wait
  * @author Anne.Sivakumar
@@ -46,7 +47,12 @@ public class Helper {
 	//load property file
 	public Helper() {
 		List<String> propsFiles = Arrays.asList(Constants.PROJECT_CONFIGURATION_PATH,Constants.PROJECT_SEARCHTSHIRT_PRODUCT_PATH,Constants.PROJECT_SELECTMAXI_PRODUCT_PATH);
-
+		try {
+			ExcelUtils.setExcelFile(Constants.PROJECT_BASE_PATH+"/resources/testdata/TestData.xlsx");
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		prop = new Properties();
 
 		for (String filePath : propsFiles) {

@@ -10,7 +10,7 @@ import com.onlineretail.qa.pages.SelectedProduct;
 import com.onlineretail.qa.testbase.Base;
 import com.relevantcodes.extentreports.LogStatus;
 
-@Listeners(com.onlineretail.qa.pages.ListenerTest.class)	
+
 
 public class AutomateSelectedProduct extends Base{
 	SelectedProduct selectproductobject=new SelectedProduct();
@@ -27,9 +27,9 @@ public class AutomateSelectedProduct extends Base{
 	@Test
 	public void selectProduct()
 	{
-		test = extent.startTest("verifySelectedProductTitle", "Checking the functionality");
+		//test = extent.startTest("verifySelectedProductTitle", "Checking the functionality");
 		selectproductobject.selectItem(driver);
-		test.log(LogStatus.PASS,"Item added to the cart");
+		//test.log(LogStatus.PASS,"Item added to the cart");
 		
 	}
 	/**

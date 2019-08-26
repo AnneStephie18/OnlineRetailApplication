@@ -1,71 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="0" started-at="2019-08-26T06:47:28Z" finished-at="2019-08-26T06:47:28Z">
+  <suite name="Default suite" duration-ms="270954" started-at="2019-08-26T13:24:21Z" finished-at="2019-08-26T13:28:52Z">
     <groups>
     </groups>
-  </suite> <!-- Suite -->
-  <suite name="Suite (1)" duration-ms="32519" started-at="2019-08-26T06:46:55Z" finished-at="2019-08-26T06:47:27Z">
-    <groups>
-    </groups>
-    <test name="SelectedProduct" duration-ms="32519" started-at="2019-08-26T06:46:55Z" finished-at="2019-08-26T06:47:27Z">
-      <class name="com.onlineretail.qa.testscripts.AutomateSelectedProduct">
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@51565ec2]" name="preSetup" is-config="true" duration-ms="13573" started-at="2019-08-26T12:16:55Z" finished-at="2019-08-26T12:17:09Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="selectProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@51565ec2]" name="selectProduct" duration-ms="17622" started-at="2019-08-26T12:17:09Z" finished-at="2019-08-26T12:17:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- selectProduct -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@51565ec2]" name="getResult" is-config="true" duration-ms="393" started-at="2019-08-26T12:17:26Z" finished-at="2019-08-26T12:17:27Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=selectProduct status=SUCCESS method=AutomateSelectedProduct.selectProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@51565ec2] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSelectedProduct@51565ec2]" name="tearDown" is-config="true" duration-ms="928" started-at="2019-08-26T12:17:27Z" finished-at="2019-08-26T12:17:27Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- com.onlineretail.qa.testscripts.AutomateSelectedProduct -->
-    </test> <!-- SelectedProduct -->
-  </suite> <!-- Suite (1) -->
-  <suite name="Suite (0)" duration-ms="151931" started-at="2019-08-26T06:44:23Z" finished-at="2019-08-26T06:46:55Z">
-    <groups>
-    </groups>
-    <test name="SearchedProduct" duration-ms="151931" started-at="2019-08-26T06:44:23Z" finished-at="2019-08-26T06:46:55Z">
+    <test name="Default test" duration-ms="270954" started-at="2019-08-26T13:24:21Z" finished-at="2019-08-26T13:28:52Z">
       <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@7c0e2abd]" name="preSetup" is-config="true" duration-ms="71200" started-at="2019-08-26T12:14:23Z" finished-at="2019-08-26T12:15:34Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="preSetup" is-config="true" duration-ms="67112" started-at="2019-08-26T18:54:21Z" finished-at="2019-08-26T18:55:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@7c0e2abd]" name="searchProduct" duration-ms="79016" started-at="2019-08-26T12:15:34Z" finished-at="2019-08-26T12:16:53Z">
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="searchProduct" duration-ms="202054" started-at="2019-08-26T18:55:28Z" finished-at="2019-08-26T18:58:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@7c0e2abd]" name="getResult" is-config="true" duration-ms="426" started-at="2019-08-26T12:16:53Z" finished-at="2019-08-26T12:16:54Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="getResult" is-config="true" duration-ms="712" started-at="2019-08-26T18:58:50Z" finished-at="2019-08-26T18:58:51Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=AutomateSearchedProduct.searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@7c0e2abd] output={null}]]]>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=AutomateSearchedProduct.searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@7c0e2abd]" name="tearDown" is-config="true" duration-ms="1269" started-at="2019-08-26T12:16:54Z" finished-at="2019-08-26T12:16:55Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="tearDown" is-config="true" duration-ms="1056" started-at="2019-08-26T18:58:51Z" finished-at="2019-08-26T18:58:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
-    </test> <!-- SearchedProduct -->
-  </suite> <!-- Suite (0) -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

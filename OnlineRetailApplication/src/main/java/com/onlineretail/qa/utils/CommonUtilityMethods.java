@@ -31,9 +31,9 @@ public class CommonUtilityMethods  {
 	//verify with the actual and expected title is same
 	public void verifyAssertTitle(String actual,String expected)
 	{
-		Assert.assertEquals(actual,helperobject.getValue(expected),"passed");
+		Assert.assertEquals(actual,expected,"passed");
 		log.info("Actual Title of the page:"+actual);
-		log.info("ExpectedTitle of the page:"+helperobject.getValue(expected));
+		log.info("ExpectedTitle of the page:"+expected);
 	}
 	   
  //perform click operation by passing xpath as parameter
@@ -75,7 +75,7 @@ public void click(WebDriver driver,String clickxpath)
 	}
 	log.info("total price: "+sumprice);
 	String grandTotal=getTitle(driver,totalXpath);
-	Assert.assertEquals(grandTotal.replace("₹", ""),helperobject.getValue(expected),"passed");
-	log.info("Expected Grand Total:"+helperobject.getValue(expected));
+	Assert.assertEquals(grandTotal.replace("₹", ""),expected,"passed");
+	log.info("Expected Grand Total:"+expected);
 	}
 }

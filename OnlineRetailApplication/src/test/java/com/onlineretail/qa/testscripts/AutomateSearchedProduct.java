@@ -12,7 +12,6 @@ import com.onlineretail.qa.pages.SearchedProduct;
 import com.onlineretail.qa.testbase.Base;
 import com.onlineretail.qa.utils.JiraPolicy;
 import com.relevantcodes.extentreports.LogStatus;
-@Listeners(com.onlineretail.qa.pages.ListenerTest.class)	
 
 public class AutomateSearchedProduct extends Base{
 	SearchedProduct searchproductobject=new SearchedProduct();
@@ -29,9 +28,9 @@ public class AutomateSearchedProduct extends Base{
 	@Test
 	public void searchProduct()
 	{
-		test = extent.startTest("verifySearchedProductTitle", "Checking the functionality");
+		//test = extent.startTest("verifySearchedProductTitle", "Checking the functionality");
 		searchproductobject.searchItem(driver);
-		test.log(LogStatus.PASS,"Item added to the cart");
+		//test.log(LogStatus.PASS,"Item added to the cart");
 	}
 	/**
 	 * quit the browser 

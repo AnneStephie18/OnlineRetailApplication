@@ -20,9 +20,11 @@ public class ExcelUtils {
 
 	private static XSSFRow Row;
 
+
+
 //This method is to set the File path and to open the Excel file, Pass Excel Path and Sheetname as Arguments to this method
 
-public static void setExcelFile(String Path,String SheetName) throws Exception {
+public static void setExcelFile(String Path) throws Exception {
 
 		try {
 
@@ -34,7 +36,7 @@ public static void setExcelFile(String Path,String SheetName) throws Exception {
 
 		ExcelWBook = new XSSFWorkbook(ExcelFile);
 
-		ExcelWSheet = ExcelWBook.getSheet(SheetName);
+		
 
 		} catch (Exception e){
 
@@ -46,10 +48,10 @@ public static void setExcelFile(String Path,String SheetName) throws Exception {
 
 //This method is to read the test data from the Excel cell, in this we are passing parameters as Row num and Col num
 
-public static String getCellData(int RowNum, int ColNum) throws Exception{
+public static String getCellData(String SheetName,int RowNum, int ColNum) throws Exception{
 
 		try{
-
+			ExcelWSheet = ExcelWBook.getSheet(SheetName);
 			Cell = ExcelWSheet.getRow(RowNum).getCell(ColNum);
 
 			String CellData = Cell.getStringCellValue();

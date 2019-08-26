@@ -2290,3 +2290,224 @@ SIZE:
 2019-08-26 13:38:49,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2019-08-26 13:38:49,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2019-08-26 13:38:49,134 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 17:33:29,094  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (34dfbd0b71c748cccf270ad29dcbd150)
+2019-08-26 17:34:33,459  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 17:34:33,659 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 17:34:33,660 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 17:34:33,663 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 17:34:33,664 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 17:35:43,241  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (06e46cd9d6278c5a954d826bf3680937)
+2019-08-26 17:36:30,217  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 17:36:30,218  INFO [main] LogReports:21 - The name of the testcase Skipped is :selectProduct
+2019-08-26 17:36:48,295  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3a51cbe34bf9964c725d9afddcbdf15f)
+2019-08-26 17:37:52,833  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 17:37:59,114 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 17:37:59,115 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 17:37:59,117 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 17:37:59,118 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 17:40:00,353  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (b9056d85e2f9912f0ad075694dd39b7e)
+2019-08-26 17:41:05,051  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 17:41:08,221  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 17:41:08,222  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 17:41:08,479  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 17:41:08,725  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 17:42:14,447  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 17:42:14,447  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 17:42:14,647  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 17:42:14,877  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 17:44:19,124  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 17:44:19,125  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 17:44:19,279  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-26 17:44:19,279  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-26 17:44:19,353  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-26 17:44:19,353  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-26 17:44:19,432  INFO [main] LogReports:21 - total price: 33.0
+2019-08-26 17:44:19,485  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-26 17:45:21,508  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-26 17:45:22,511  INFO [main] LogReports:21 - capture success
+2019-08-26 17:45:22,556 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 17:45:22,557 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 17:45:22,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 17:45:22,560 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 17:54:12,627  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (c54c41c012eaad8de7a1c18251e469ac)
+2019-08-26 17:55:16,495  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 17:55:19,983  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 17:55:19,983  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 17:55:20,207  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 17:55:20,452  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 17:56:26,952 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 17:56:26,954 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 17:56:26,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 17:56:26,956 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:05:55,627  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (2416686fcee25b9ca844fd9e8d8eee7a)
+2019-08-26 18:06:59,997  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 18:07:03,174  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:07:03,174  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:07:03,433  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:07:03,690  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 18:08:09,179  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:08:09,179  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:08:09,379  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 18:08:09,612  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 18:09:16,167 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:09:16,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:09:16,170 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:09:16,170 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:12:11,252  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5872ad2ab1108697f151ccf5bda1e366)
+2019-08-26 18:13:15,417  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 18:13:18,651  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:13:18,651  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:13:18,866  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:13:19,130  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 18:13:25,365  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:13:25,365  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:13:25,566  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 18:13:25,779  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 18:13:31,111  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 18:13:31,112  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 18:13:31,267  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-26 18:13:31,268  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-26 18:13:31,322  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-26 18:13:31,322  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-26 18:13:31,400  INFO [main] LogReports:21 - total price: 33.0
+2019-08-26 18:13:31,512 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:13:31,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:13:31,515 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:13:31,515 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:15:59,421  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (e26aecff987a58f418e694dc09e3fc88)
+2019-08-26 18:17:03,921  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-26 18:17:07,000  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:17:07,001  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:17:07,249  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:17:07,492  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 18:18:13,147  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:18:13,147  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:18:13,345  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 18:18:13,571  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 18:19:19,996  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 18:19:19,997  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 18:19:20,155  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-26 18:19:20,155  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-26 18:19:20,212  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-26 18:19:20,212  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-26 18:19:20,291  INFO [main] LogReports:21 - total price: 33.0
+2019-08-26 18:19:20,386 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:19:20,388 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:19:20,390 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:19:20,390 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:20:06,161  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f30b4d3c4bc46d9b7ffce01c314be672)
+2019-08-26 18:21:12,736  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:21:12,737  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:21:12,931  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:21:13,183  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 18:22:19,776  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:22:19,776  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:22:19,977  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 18:22:20,202  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 18:23:26,009  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 18:23:26,010  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 18:23:26,169  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-26 18:23:26,170  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-26 18:23:26,225  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-26 18:23:26,225  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-26 18:23:26,301  INFO [main] LogReports:21 - total price: 33.0
+2019-08-26 18:23:26,411 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:23:26,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:23:26,414 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:23:26,414 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:29:07,845  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (499868822ecf173679ea0addcca31aa6)
+2019-08-26 18:30:14,373  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:30:14,373  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-26 18:30:14,587  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:30:14,854  INFO [main] LogReports:21 - selected option: 34
+2019-08-26 18:32:16,948  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:32:16,949  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-26 18:32:17,144  INFO [main] LogReports:21 - selected option: Pink
+2019-08-26 18:32:17,369  INFO [main] LogReports:21 - selected option: 36
+2019-08-26 18:32:22,813  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 18:32:22,814  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 18:32:22,975  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-26 18:32:22,975  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-26 18:32:23,029  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-26 18:32:23,029  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-26 18:32:23,107  INFO [main] LogReports:21 - total price: 33.0
+2019-08-26 18:32:23,159  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-26 18:32:24,677  INFO [main] LogReports:21 - capture success
+2019-08-26 18:32:24,718 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:32:24,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:32:24,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:32:24,721 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:40:36,630  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (344c7d1be6930b1abb133635ceb93658)
+2019-08-26 18:41:48,318  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-26 18:41:48,318  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-26 18:41:48,479  INFO [main] LogReports:21 - selected option: Red
+2019-08-26 18:41:48,660  INFO [main] LogReports:21 - selected option: L
+2019-08-26 18:42:56,091  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:42:56,091  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:42:56,322  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:42:56,553  INFO [main] LogReports:21 - selected option: Small
+2019-08-26 18:44:02,946 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:44:02,947 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:44:02,949 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:44:02,949 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:47:49,849  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (c6307237af943877801b58d5c9f0a223)
+2019-08-26 18:49:00,521  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-26 18:49:00,521  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-26 18:49:00,658  INFO [main] LogReports:21 - selected option: Red
+2019-08-26 18:49:00,865  INFO [main] LogReports:21 - selected option: L
+2019-08-26 18:49:09,834  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:49:09,835  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:49:10,056  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:49:10,280  INFO [main] LogReports:21 - selected option: Small
+2019-08-26 18:49:15,685 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:49:15,686 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:49:15,688 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:49:15,688 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-26 18:54:25,252  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (8027b7dfffea587ead3760487b703e29)
+2019-08-26 18:55:32,622  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-26 18:55:32,622  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-26 18:55:32,765  INFO [main] LogReports:21 - selected option: Red
+2019-08-26 18:55:32,947  INFO [main] LogReports:21 - selected option: L
+2019-08-26 18:56:40,540  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:56:40,540  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-26 18:56:40,739  INFO [main] LogReports:21 - selected option: Black
+2019-08-26 18:56:40,976  INFO [main] LogReports:21 - selected option: Small
+2019-08-26 18:57:46,394  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-26 18:57:46,395  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-26 18:57:46,552  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-26 18:57:46,553  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-26 18:57:46,609  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-26 18:57:46,610  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-26 18:57:46,685  INFO [main] LogReports:21 - total price: 120.0
+2019-08-26 18:57:46,747  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-26 18:58:51,121  INFO [main] LogReports:21 - capture success
+2019-08-26 18:58:51,190 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-26 18:58:51,191 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-26 18:58:51,193 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-26 18:58:51,193 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
