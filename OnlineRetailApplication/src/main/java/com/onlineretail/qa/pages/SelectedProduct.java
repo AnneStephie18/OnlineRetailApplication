@@ -1,4 +1,5 @@
 package com.onlineretail.qa.pages;
+import org.openqa.selenium.JavascriptExecutor;
 /**
  * This class is used to Select a product, Select color, size and quantity and then add the product to cart,Verity the total is correct 
  */
@@ -15,25 +16,32 @@ public class SelectedProduct {
 	LogReports log=new LogReports();
 	public String productpagetitle,cartexpectedtitle;
 	String productitem3tshirtexpectedtitle,productitem1tshirtexpectedtitle,grandtotalfortshirtexpected;
-	
+	String productcolor1,productsize1,productcolor2,productsize2;
 	public void selectItem(WebDriver driver)
 	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		 
 		try {
-			productitem3tshirtexpectedtitle=ExcelUtils.getCellData("sheet1", 1, 0);
-			productitem1tshirtexpectedtitle=ExcelUtils.getCellData("sheet1", 2, 0);
-			grandtotalfortshirtexpected=ExcelUtils.getCellData("sheet1", 1, 4);
-			
+			productitem3tshirtexpectedtitle=ExcelUtils.getCellData1("sheet1", "product name", 2);
+			productitem1tshirtexpectedtitle=ExcelUtils.getCellData1("sheet1", "product name", 3);
+			grandtotalfortshirtexpected=ExcelUtils.getCellData1("sheet1", "product total", 2);
+			productcolor1=ExcelUtils.getCellData1("sheet1", "product color", 2);
+			productsize1=ExcelUtils.getCellData1("sheet1", "product size", 2);
+			productcolor2=ExcelUtils.getCellData1("sheet1", "product color", 3);
+			productsize2=ExcelUtils.getCellData1("sheet1", "product size", 3);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.click(driver, "product_item3_tshirt");
 		verifyTitle(driver, productitem3tshirtexpectedtitle);
-		addToCart(driver, "dropdownmenu_color_value1", "dropdownmenu_size_value2", helperobject.getValue("dropdownmenu_quantity_value1"));
+		addToCart(driver,productcolor1 ,productsize1 , helperobject.getValue("dropdownmenu_quantity_value1"));
 		commonutilityobject.navigateTo(driver);//viewCart(driver);
+		scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.click(driver, "product_item1_tshirt");
 		verifyTitle(driver, productitem1tshirtexpectedtitle);
-		addToCart(driver, "dropdownmenu_color_value3", "dropdownmenu_size_value3", helperobject.getValue("dropdownmenu_quantity_value2"));
+		addToCart(driver,productcolor2 ,productsize2, helperobject.getValue("dropdownmenu_quantity_value2"));
 		commonutilityobject.navigateTo(driver);//viewCart(driver);
 		commonutilityobject.click(driver, "carticon");
 		viewCart(driver,grandtotalfortshirtexpected);
@@ -46,6 +54,8 @@ public class SelectedProduct {
 	}
 	public void addToCart(WebDriver driver,String dropdowncolorvalue,String dropdownsizevalue,String dropdownquantityvalue)
 	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		 scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.selectDropdownMenu(driver, "dropdownmenu_color", dropdowncolorvalue);
 		commonutilityobject.selectDropdownMenu(driver, "dropdownmenu_size", dropdownsizevalue);
 		
@@ -61,6 +71,7 @@ public class SelectedProduct {
 	}
 	public void viewCart(WebDriver driver,String expected)
 	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
 		try {
 			cartexpectedtitle=ExcelUtils.getCellData("sheet1", 5, 0);
 		} catch (Exception e) {
@@ -68,6 +79,7 @@ public class SelectedProduct {
 			e.printStackTrace();
 		}
 	    verifyTitle(driver,cartexpectedtitle);
+	    scroll.executeScript("window.scrollBy(0,500)");
 	    String productItem1Price=commonutilityobject.getTitle(driver, "product1_price");
 	    String productItem2Price=commonutilityobject.getTitle(driver, "product2_price");
 	    log.info("Name of the product1:"+commonutilityobject.getTitle(driver, "product1_name"));

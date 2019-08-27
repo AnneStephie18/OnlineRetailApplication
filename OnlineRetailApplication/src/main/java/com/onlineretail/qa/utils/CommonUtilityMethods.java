@@ -52,8 +52,8 @@ public void click(WebDriver driver,String clickxpath)
 	public void selectDropdownMenu(WebDriver driver,String xpath,String optionvalue)
 	{
 		Select dropdownmenu = new Select(driver.findElement(By.id(helperobject.getValue(xpath))));
-		dropdownmenu.selectByVisibleText(helperobject.getValue(optionvalue));
-		log.info("selected option: "+helperobject.getValue(optionvalue));
+		dropdownmenu.selectByVisibleText(optionvalue);
+		log.info("selected option: "+optionvalue);
 	}
 	//perform keyboard function
 	public void sendKeys(WebDriver driver,String xpath,String key)

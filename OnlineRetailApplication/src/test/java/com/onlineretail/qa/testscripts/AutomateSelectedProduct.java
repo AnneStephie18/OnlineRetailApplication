@@ -27,9 +27,9 @@ public class AutomateSelectedProduct extends Base{
 	@Test
 	public void selectProduct()
 	{
-		//test = extent.startTest("verifySelectedProductTitle", "Checking the functionality");
+		test = report.startTest("verifySelectedProductTitle", "Checking the functionality");
 		selectproductobject.selectItem(driver);
-		//test.log(LogStatus.PASS,"Item added to the cart");
+		test.log(LogStatus.PASS,"Item added to the cart");
 		
 	}
 	/**

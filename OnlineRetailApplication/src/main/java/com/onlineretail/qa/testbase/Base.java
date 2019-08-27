@@ -1,6 +1,7 @@
 package com.onlineretail.qa.testbase;
 
 
+import java.io.File;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
@@ -28,7 +29,7 @@ public class Base {
 	LogReports log=new LogReports();
 	Helper helperobject = Helper.getInstance();
 	public ExtentHtmlReporter htmlReporter;
-	public ExtentReports extent;
+	public ExtentReports report;
     //helps to generate the logs in test report.
 	public ExtentTest test;
 	public ITestResult result;
@@ -38,10 +39,11 @@ public class Base {
      */
 	public void openBrowser() 
 	{ 
-		htmlReporter = new ExtentHtmlReporter("extent.html");
-		extent = new ExtentReports("extent.html");
-		//extent.attachReporter(htmlReporter);
-		test = extent.startTest("verifyHomePageTitle", "Checking the Title");
+		String reportPath = new File("").getAbsolutePath().toString().trim()+"/Reports/";
+		//htmlReporter = new ExtentHtmlReporter("extent.html");
+		report = new ExtentReports(reportPath+this.getClass().getSimpleName()+".html", false);
+		
+		test = report.startTest("verifyHomePageTitle", "Checking the Title");
 		if (helperobject.getValue("browser").equalsIgnoreCase("chrome")) 
 		{
 			System.setProperty("webdriver.chrome.driver",Constants.PROJECT_CHROMEPATH);
@@ -72,10 +74,13 @@ public class Base {
 	}
 
    //close the driver
-	public void quitBrowser()  {
-    	driver.manage().timeouts().implicitlyWait(Constants.IMPLICIT_WAIT, TimeUnit.SECONDS);
-    	extent.flush();
+	public void quitBrowser()  
+	{
+    	//driver.manage().timeouts().implicitlyWait(Constants.IMPLICIT_WAIT, TimeUnit.SECONDS);
 		driver.quit();
+		report.endTest(test);
+		report.flush();
+		
 	}
 
 	@AfterMethod

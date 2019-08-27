@@ -25,12 +25,12 @@ public class AutomateSearchedProduct extends Base{
 	}
 	//control transfer to searchItem method
 	@ JiraPolicy(logTicketReady = true)
-	@Test
+	@Test(retryAnalyzer = com.onlineretail.qa.pages.RetryAnalyzer.class)
 	public void searchProduct()
 	{
-		//test = extent.startTest("verifySearchedProductTitle", "Checking the functionality");
+		test = report.startTest("verifySearchedProductTitle", "Checking the functionality");
 		searchproductobject.searchItem(driver);
-		//test.log(LogStatus.PASS,"Item added to the cart");
+		test.log(LogStatus.PASS,"Item added to the cart");
 	}
 	/**
 	 * quit the browser 

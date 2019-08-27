@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.onlineretail.qa.pages.ListenerTest"/>
+  </listeners>
   <test name="SearchedProduct">
     <classes>
       <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct"/>
     </classes>
   </test> <!-- SearchedProduct -->
-  <test name="SearchedProduct(failed)">
-    <classes>
-      <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
-        <methods>
-          <include name="searchProduct"/>
-          <include name="preSetup"/>
-          <include name="tearDown"/>
-          <include name="getResult"/>
-        </methods>
-      </class> <!-- com.onlineretail.qa.testscripts.AutomateSearchedProduct -->
-    </classes>
-  </test> <!-- SearchedProduct(failed) -->
 </suite> <!-- Failed suite [Suite] -->

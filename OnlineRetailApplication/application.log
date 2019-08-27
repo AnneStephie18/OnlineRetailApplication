@@ -2511,3 +2511,1373 @@ SMALL
 2019-08-26 18:58:51,191 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
 2019-08-26 18:58:51,193 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2019-08-26 18:58:51,193 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 11:02:10,017  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (cf7d66042d6e8b5cd8736e094d5135a2)
+2019-08-27 11:02:20,127  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 11:02:27,382  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 11:02:27,382  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 11:02:27,536  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 11:02:27,782  INFO [main] LogReports:21 - selected option: L
+2019-08-27 11:02:36,283  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 11:02:36,283  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 11:02:36,506  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 11:02:36,767  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 11:02:42,494  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 11:02:42,494  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 11:02:42,673  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 11:02:42,674  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 11:02:42,732  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 11:02:42,733  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 11:02:42,809  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 11:02:42,866  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 11:02:45,959  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 11:02:46,583  INFO [main] LogReports:21 - capture success
+2019-08-27 11:02:46,612 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 11:02:46,613 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 11:02:46,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 11:02:46,616 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 11:02:50,260  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (ad10020641db9056f68b3333e9cea67a)
+2019-08-27 11:02:59,667  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 11:03:04,603  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 11:03:04,603  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 11:03:04,818  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 11:03:05,099  INFO [main] LogReports:21 - selected option: 34
+2019-08-27 11:03:12,928  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 11:03:12,929  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 11:03:13,097  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 11:03:13,298  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 11:03:19,550  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 11:03:19,550  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 11:03:19,719  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-27 11:03:19,720  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 11:03:19,775  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 11:03:19,775  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 11:03:19,848  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 11:03:19,904  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 11:03:21,046  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 11:03:21,423  INFO [main] LogReports:21 - capture success
+2019-08-27 11:03:21,425 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 11:03:21,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 11:03:21,426 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 11:03:21,427 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:46:13,803  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (ad8da28c311129b1492fc42ba7141033)
+2019-08-27 12:46:24,104  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 12:46:31,744 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:46:31,786 DEBUG [main] DefaultClientConnectionOperator:176 - Connecting to automatetestcase.atlassian.net:443
+2019-08-27 12:46:32,125 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:46:32,127 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:46:32,127 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:46:32,128 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:46:32,129 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:46:32,129 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1[\r][\n]"
+2019-08-27 12:46:32,130 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:46:32,131 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:46:32,131 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:46:32,131 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:46:32,131 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:46:32,132 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:46:32,133 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:46:32,133 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:46:32,134 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:46:32,134 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:46:32,134 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:46:32,134 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:46:32,567 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:46:32,605 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:46:32,605 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:46:32,606 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:46:32,606 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:46:32,606 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:46:32,606 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:16:32 GMT[\r][\n]"
+2019-08-27 12:46:32,606 DEBUG [main] wire:72 -  << "ATL-TraceId: ef1479805f35e59b[\r][\n]"
+2019-08-27 12:46:32,607 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:46:32,607 DEBUG [main] wire:72 -  << "X-AREQUESTID: 1c25a0e1-0472-419a-85e7-370b7a0b5673[\r][\n]"
+2019-08-27 12:46:32,607 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:46:32,607 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:46:32,608 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:46:32,608 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:46:32,608 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:46:32,608 DEBUG [main] wire:72 -  << "Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin; Path=/; Secure[\r][\n]"
+2019-08-27 12:46:32,608 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:32,609 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:46:32,609 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:46:32,609 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:46:32,609 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:46:32,609 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:46:32,610 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:46:32,610 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:46:32,610 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:16:32 GMT
+2019-08-27 12:46:32,610 DEBUG [main] headers:267 - << ATL-TraceId: ef1479805f35e59b
+2019-08-27 12:46:32,610 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << X-AREQUESTID: 1c25a0e1-0472-419a-85e7-370b7a0b5673
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:46:32,611 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:46:32,612 DEBUG [main] headers:267 - << Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin; Path=/; Secure
+2019-08-27 12:46:32,619 DEBUG [main] ResponseProcessCookies:118 - Cookie accepted [atlassian.xsrf.token="f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin", version:0, domain:automatetestcase.atlassian.net, path:/, expiry:null]
+2019-08-27 12:46:32,621 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:46:32,637 DEBUG [main] wire:72 -  << "1876[\r][\n]"
+2019-08-27 12:46:32,638 DEBUG [main] wire:86 -  << "{"expand":"projects","projects":[{"expand":"issuetypes","self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"},"issuetypes":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"expand":"fields","fields":{"summary":{"required":true,"schema":{"type":"string","system":"summary"},"name":"Summary","key":"summary","hasDefaultValue":false,"operations":["set"]},"issuetype":{"required":true,"schema":{"type":"issuetype","system":"issuetype"},"name":"Issue Type","key":"issuetype","hasDefaultValue":false,"operations":[],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303}]},"components":{"required":false,"schema":{"type":"array","items":"component","system":"components"},"name":"Components","key":"components","hasDefaultValue":false,"operations":["add","set","remove"],"allowedValues":[]},"description":{"required":false,"schema":{"type":"string","system":"description"},"name":"Description","key":"description","hasDefaultValue":false,"operations":["set"]},"customfield_10020":{"required":false,"schema":{"type":"array","items":"string","custom":"com.pyxis.greenhopper.jira:gh-sprint","customId":10020},"name":"Sprint","key":"customfield_10020","hasDefaultValue":false,"operations":["set"]},"project":{"required":true,"schema":{"type":"project","system":"project"},"name":"Project","key":"project","hasDefaultValue":false,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}}]},"fixVersions":{"required":false,"schema":{"type":"array","items":"version","system":"fixVersions"},"name":"Fix versions","key":"fixVersions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"priority":{"required":false,"schema":{"type":"priority","system":"priority"},"name":"Priority","key":"priority","hasDefaultValue":true,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/1","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/highest.svg","name":"Highest","id":"1"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/2","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/high.svg","name":"High","id":"2"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/4","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/low.svg","name":"Low","id":"4"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/5","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/lowest.svg","name":"Lowest","id":"5"}],"defaultValue":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"}},"customfield_10014":{"required":false,"schema":{"type":"any","custom":"com.pyxis.greenhopper.jira:gh-epic-link","customId":10014},"name":"Epic Link","key":"customfield_10014","hasDefaultValue":false,"operations":["set"]},"labels":{"required":false,"schema":{"type":"array","items":"string","system":"labels"},"name":"Labels","key":"labels","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/1.0/labels/suggest?query=","hasDefaultValue":false,"operations":["add","set","remove"]},"environment":{"required":false,"schema":{"type":"string","system":"environment"},"name":"Environment","key":"environment","hasDefaultValue":false,"operations":["set"]},"attachment":{"required":false,"schema":{"type":"array","items":"attachment","system":"attachment"},"name":"Attachment","key":"attachment","hasDefaultValue":false,"operations":[]},"versions":{"required":false,"schema":{"type":"array","items":"version","system":"versions"},"name":"Affects versions","key":"versions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"issuelinks":{"required":false,"schema":{"type":"array","items":"issuelinks","system":"issuelinks"},"name":"Linked Issues","key":"issuelinks","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/issue/picker?currentProjectId=&showSubTaskParent=true&showSubTasks=true&currentIssueKey=null&query=","hasDefaultValue":false,"operations":["add"]},"assignee":{"required":false,"schema":{"type":"user","system":"assignee"},"name":"Assignee","key":"assignee","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/user/assignable/search?project=TES&query=","hasDefaultValue":false,"operations":["set"]}}}]}]}"
+2019-08-27 12:46:32,647 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:32,648 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:46:32,648 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:32,648 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@28a2a3e7
+2019-08-27 12:46:32,649 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:46:32,858 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:46:32,859 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:46:32,861 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:46:32,861 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/]
+2019-08-27 12:46:32,862 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:46:32,862 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:46:32,862 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:46:32,863 DEBUG [main] DefaultClientConnection:276 - Sending request: POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:46:32,863 DEBUG [main] wire:72 -  >> "POST /rest/api/latest/issue/ HTTP/1.1[\r][\n]"
+2019-08-27 12:46:32,863 DEBUG [main] wire:72 -  >> "Content-Type: application/json[\r][\n]"
+2019-08-27 12:46:32,863 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:46:32,864 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:46:32,864 DEBUG [main] wire:72 -  >> "Content-Length: 250[\r][\n]"
+2019-08-27 12:46:32,864 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:46:32,864 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:46:32,865 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:46:32,865 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin[\r][\n]"
+2019-08-27 12:46:32,865 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:46:32,865 DEBUG [main] headers:280 - >> POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:46:32,865 DEBUG [main] headers:283 - >> Content-Type: application/json
+2019-08-27 12:46:32,866 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:46:32,866 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:46:32,866 DEBUG [main] headers:283 - >> Content-Length: 250
+2019-08-27 12:46:32,866 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:46:32,866 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:46:32,867 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:46:32,867 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin
+2019-08-27 12:46:32,867 DEBUG [main] wire:86 -  >> "{"fields":{"summary":"searchProductgot failed due to some assertion or exception","issuetype":{"name":"Bug"},"project":{"key":"TES"},"description":"passed expected [row 0 or column product name does not exist  in Excel] but found [TOKYO TALKIES]\n"}}"
+2019-08-27 12:46:33,386 DEBUG [main] wire:72 -  << "HTTP/1.1 201 [\r][\n]"
+2019-08-27 12:46:33,387 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:46:33,387 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:46:33,388 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:46:33,388 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:46:33,388 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:16:33 GMT[\r][\n]"
+2019-08-27 12:46:33,388 DEBUG [main] wire:72 -  << "ATL-TraceId: 4305a691299154ae[\r][\n]"
+2019-08-27 12:46:33,389 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:46:33,389 DEBUG [main] wire:72 -  << "X-AREQUESTID: e676ab9d-fe50-4c74-95f4-eab65590e4f1[\r][\n]"
+2019-08-27 12:46:33,389 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:46:33,389 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:46:33,390 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:46:33,390 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:46:33,390 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:46:33,390 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,390 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 201 
+2019-08-27 12:46:33,391 DEBUG [main] headers:264 - << HTTP/1.1 201 
+2019-08-27 12:46:33,391 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:46:33,391 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:46:33,391 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:46:33,391 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:46:33,391 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:16:33 GMT
+2019-08-27 12:46:33,392 DEBUG [main] headers:267 - << ATL-TraceId: 4305a691299154ae
+2019-08-27 12:46:33,392 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:46:33,392 DEBUG [main] headers:267 - << X-AREQUESTID: e676ab9d-fe50-4c74-95f4-eab65590e4f1
+2019-08-27 12:46:33,392 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:46:33,392 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:46:33,393 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:46:33,393 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:46:33,393 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:46:33,393 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:46:33,394 DEBUG [main] wire:72 -  << "68[\r][\n]"
+2019-08-27 12:46:33,394 DEBUG [main] wire:86 -  << "{"id":"10003","key":"TES-4","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10003"}"
+2019-08-27 12:46:33,394 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,395 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:46:33,395 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,395 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@589b028e
+2019-08-27 12:46:33,395 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:46:33,396 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:46:33,396 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:46:33,398 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:46:33,399 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/TES-4]
+2019-08-27 12:46:33,399 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:46:33,399 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:46:33,399 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:46:33,399 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/TES-4 HTTP/1.1
+2019-08-27 12:46:33,400 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/TES-4 HTTP/1.1[\r][\n]"
+2019-08-27 12:46:33,400 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:46:33,400 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:46:33,400 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:46:33,401 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:46:33,401 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:46:33,401 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin[\r][\n]"
+2019-08-27 12:46:33,401 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:46:33,401 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/TES-4 HTTP/1.1
+2019-08-27 12:46:33,402 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:46:33,402 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:46:33,402 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:46:33,402 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:46:33,402 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:46:33,403 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_06d139c6e51815a8d53fde9b48329e865cf0bd8b_lin
+2019-08-27 12:46:33,805 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:46:33,805 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:46:33,806 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:46:33,806 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:46:33,806 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:46:33,806 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:46:33,806 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:16:33 GMT[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "ATL-TraceId: ddcbfbe819fe59fb[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "X-AREQUESTID: 64bb1035-4a0d-4ba2-abad-e0672dc1dfef[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:46:33,807 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:46:33,808 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:46:33,808 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:46:33,808 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,808 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:46:33,808 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:46:33,809 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:46:33,809 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:46:33,809 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:46:33,809 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:16:33 GMT
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << ATL-TraceId: ddcbfbe819fe59fb
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << X-AREQUESTID: 64bb1035-4a0d-4ba2-abad-e0672dc1dfef
+2019-08-27 12:46:33,810 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:46:33,811 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:46:33,811 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:46:33,811 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:46:33,811 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:46:33,811 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:46:33,812 DEBUG [main] wire:72 -  << "16b0[\r][\n]"
+2019-08-27 12:46:33,813 DEBUG [main] wire:86 -  << "{"expand":"renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations","id":"10003","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10003","key":"TES-4","fields":{"statuscategorychangedate":"2019-08-27T12:46:33.341+0530","issuetype":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303},"timespent":null,"project":{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}},"fixVersions":[],"aggregatetimespent":null,"resolution":null,"resolutiondate":null,"workratio":-1,"lastViewed":null,"watches":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-4/watchers","watchCount":1,"isWatching":true},"created":"2019-08-27T12:46:33.187+0530","customfield_10020":null,"customfield_10021":null,"priority":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},"customfield_10100":null,"customfield_10101":null,"labels":[],"customfield_10016":null,"customfield_10017":null,"customfield_10018":{"hasEpicLinkFieldDependency":false,"showField":false,"nonEditableReason":{"reason":"PLUGIN_LICENSE_ERROR","message":"Portfolio for Jira must be licensed for the Parent Link to be available."}},"customfield_10019":"0|i0000n:","aggregatetimeoriginalestimate":null,"timeestimate":null,"versions":[],"issuelinks":[],"assignee":null,"updated":"2019-08-27T12:46:33.187+0530","status":{"self":"https://automatetestcase.atlassian.net/rest/api/2/status/10000","description":"","iconUrl":"https://automatetestcase.atlassian.net/","name":"To Do","id":"10000","statusCategory":{"self":"https://automatetestcase.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"To Do"}},"components":[],"timeoriginalestimate":null,"description":"passed expected [row 0 or column product name does not exist  in Excel] but found [TOKYO TALKIES]\n","customfield_10010":null,"customfield_10014":null,"customfield_10015":null,"timetracking":{},"customfield_10005":null,"customfield_10006":null,"security":null,"customfield_10007":null,"customfield_10008":null,"attachment":[],"customfield_10009":null,"aggregatetimeestimate":null,"summary":"searchProductgot failed due to some assertion or exception","creator":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"subtasks":[],"reporter":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"aggregateprogress":{"progress":0,"total":0},"customfield_10000":"{}","customfield_10001":null,"customfield_10002":null,"customfield_10003":null,"customfield_10004":null,"environment":null,"duedate":null,"progress":{"progress":0,"total":0},"comment":{"comments":[],"maxResults":0,"total":0,"startAt":0},"votes":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-4/votes","votes":0,"hasVoted":false},"worklog":{"startAt":0,"maxResults":20,"total":0,"worklogs":[]}}}"
+2019-08-27 12:46:33,813 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,814 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:46:33,814 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:46:33,814 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@22175d4f
+2019-08-27 12:46:33,814 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:46:33,820  INFO [main] LogReports:21 - The name of the testcase failed is :searchProduct
+2019-08-27 12:46:33,842 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:46:33,843 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:46:33,845 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:46:33,845 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:46:34,011 DEBUG [Finalizer] DefaultClientConnection:182 - Connection 0.0.0.0:53242<->18.136.214.11:443 closed
+2019-08-27 12:48:01,151  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (184a6f34a9ea76098d1cf20630ec769b)
+2019-08-27 12:48:10,359  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 12:48:18,275 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:48:18,300 DEBUG [main] DefaultClientConnectionOperator:176 - Connecting to automatetestcase.atlassian.net:443
+2019-08-27 12:48:18,624 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:48:18,626 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:48:18,626 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:48:18,627 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:48:18,627 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:48:18,628 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1[\r][\n]"
+2019-08-27 12:48:18,628 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:48:18,629 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:48:18,629 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:48:18,629 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:48:18,629 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:48:18,630 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:48:18,631 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:48:18,631 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:48:18,632 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:48:18,632 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:48:18,632 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:48:18,632 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:48:18,788 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:48:18,790 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:48:18,791 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:48:18,791 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:48:18,791 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:48:18,791 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:48:18,791 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:18:18 GMT[\r][\n]"
+2019-08-27 12:48:18,792 DEBUG [main] wire:72 -  << "ATL-TraceId: eb59e48226892359[\r][\n]"
+2019-08-27 12:48:18,792 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:48:18,792 DEBUG [main] wire:72 -  << "X-AREQUESTID: 9dcb35d5-8201-4928-a11d-e00d08376218[\r][\n]"
+2019-08-27 12:48:18,792 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:48:18,793 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:48:18,793 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:48:18,793 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:48:18,793 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:48:18,794 DEBUG [main] wire:72 -  << "Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin; Path=/; Secure[\r][\n]"
+2019-08-27 12:48:18,794 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:18,794 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:48:18,794 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:48:18,795 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:18:18 GMT
+2019-08-27 12:48:18,796 DEBUG [main] headers:267 - << ATL-TraceId: eb59e48226892359
+2019-08-27 12:48:18,796 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:48:18,796 DEBUG [main] headers:267 - << X-AREQUESTID: 9dcb35d5-8201-4928-a11d-e00d08376218
+2019-08-27 12:48:18,796 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:48:18,796 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:48:18,797 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:48:18,797 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:48:18,797 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:48:18,797 DEBUG [main] headers:267 - << Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin; Path=/; Secure
+2019-08-27 12:48:18,805 DEBUG [main] ResponseProcessCookies:118 - Cookie accepted [atlassian.xsrf.token="f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin", version:0, domain:automatetestcase.atlassian.net, path:/, expiry:null]
+2019-08-27 12:48:18,807 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:48:18,816 DEBUG [main] wire:72 -  << "1876[\r][\n]"
+2019-08-27 12:48:18,817 DEBUG [main] wire:86 -  << "{"expand":"projects","projects":[{"expand":"issuetypes","self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"},"issuetypes":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"expand":"fields","fields":{"summary":{"required":true,"schema":{"type":"string","system":"summary"},"name":"Summary","key":"summary","hasDefaultValue":false,"operations":["set"]},"issuetype":{"required":true,"schema":{"type":"issuetype","system":"issuetype"},"name":"Issue Type","key":"issuetype","hasDefaultValue":false,"operations":[],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303}]},"components":{"required":false,"schema":{"type":"array","items":"component","system":"components"},"name":"Components","key":"components","hasDefaultValue":false,"operations":["add","set","remove"],"allowedValues":[]},"description":{"required":false,"schema":{"type":"string","system":"description"},"name":"Description","key":"description","hasDefaultValue":false,"operations":["set"]},"customfield_10020":{"required":false,"schema":{"type":"array","items":"string","custom":"com.pyxis.greenhopper.jira:gh-sprint","customId":10020},"name":"Sprint","key":"customfield_10020","hasDefaultValue":false,"operations":["set"]},"project":{"required":true,"schema":{"type":"project","system":"project"},"name":"Project","key":"project","hasDefaultValue":false,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}}]},"fixVersions":{"required":false,"schema":{"type":"array","items":"version","system":"fixVersions"},"name":"Fix versions","key":"fixVersions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"priority":{"required":false,"schema":{"type":"priority","system":"priority"},"name":"Priority","key":"priority","hasDefaultValue":true,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/1","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/highest.svg","name":"Highest","id":"1"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/2","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/high.svg","name":"High","id":"2"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/4","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/low.svg","name":"Low","id":"4"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/5","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/lowest.svg","name":"Lowest","id":"5"}],"defaultValue":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"}},"customfield_10014":{"required":false,"schema":{"type":"any","custom":"com.pyxis.greenhopper.jira:gh-epic-link","customId":10014},"name":"Epic Link","key":"customfield_10014","hasDefaultValue":false,"operations":["set"]},"labels":{"required":false,"schema":{"type":"array","items":"string","system":"labels"},"name":"Labels","key":"labels","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/1.0/labels/suggest?query=","hasDefaultValue":false,"operations":["add","set","remove"]},"environment":{"required":false,"schema":{"type":"string","system":"environment"},"name":"Environment","key":"environment","hasDefaultValue":false,"operations":["set"]},"attachment":{"required":false,"schema":{"type":"array","items":"attachment","system":"attachment"},"name":"Attachment","key":"attachment","hasDefaultValue":false,"operations":[]},"versions":{"required":false,"schema":{"type":"array","items":"version","system":"versions"},"name":"Affects versions","key":"versions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"issuelinks":{"required":false,"schema":{"type":"array","items":"issuelinks","system":"issuelinks"},"name":"Linked Issues","key":"issuelinks","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/issue/picker?currentProjectId=&showSubTaskParent=true&showSubTasks=true&currentIssueKey=null&query=","hasDefaultValue":false,"operations":["add"]},"assignee":{"required":false,"schema":{"type":"user","system":"assignee"},"name":"Assignee","key":"assignee","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/user/assignable/search?project=TES&query=","hasDefaultValue":false,"operations":["set"]}}}]}]}"
+2019-08-27 12:48:18,818 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:18,819 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:48:18,819 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:18,819 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@28a2a3e7
+2019-08-27 12:48:18,820 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:48:18,932 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:48:18,933 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:48:18,936 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:48:18,936 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/]
+2019-08-27 12:48:18,937 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:48:18,937 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:48:18,938 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:48:18,938 DEBUG [main] DefaultClientConnection:276 - Sending request: POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:48:18,938 DEBUG [main] wire:72 -  >> "POST /rest/api/latest/issue/ HTTP/1.1[\r][\n]"
+2019-08-27 12:48:18,938 DEBUG [main] wire:72 -  >> "Content-Type: application/json[\r][\n]"
+2019-08-27 12:48:18,938 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:48:18,939 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:48:18,939 DEBUG [main] wire:72 -  >> "Content-Length: 250[\r][\n]"
+2019-08-27 12:48:18,939 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:48:18,939 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:48:18,939 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:48:18,940 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin[\r][\n]"
+2019-08-27 12:48:18,940 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:48:18,941 DEBUG [main] headers:280 - >> POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:48:18,941 DEBUG [main] headers:283 - >> Content-Type: application/json
+2019-08-27 12:48:18,941 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:48:18,941 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:48:18,942 DEBUG [main] headers:283 - >> Content-Length: 250
+2019-08-27 12:48:18,942 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:48:18,942 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:48:18,942 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:48:18,942 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin
+2019-08-27 12:48:18,942 DEBUG [main] wire:86 -  >> "{"fields":{"summary":"searchProductgot failed due to some assertion or exception","issuetype":{"name":"Bug"},"project":{"key":"TES"},"description":"passed expected [row 3 or column product name does not exist  in Excel] but found [TOKYO TALKIES]\n"}}"
+2019-08-27 12:48:19,226 DEBUG [main] wire:72 -  << "HTTP/1.1 201 [\r][\n]"
+2019-08-27 12:48:19,227 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:48:19,227 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:48:19,227 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:48:19,227 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:18:19 GMT[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "ATL-TraceId: 18215bb593ec4e91[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "X-AREQUESTID: 5e15dcb1-8106-4ea0-8149-151dabd35d45[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:48:19,228 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:48:19,229 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:48:19,229 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:48:19,229 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:48:19,229 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,229 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 201 
+2019-08-27 12:48:19,229 DEBUG [main] headers:264 - << HTTP/1.1 201 
+2019-08-27 12:48:19,229 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:48:19,230 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:48:19,230 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:48:19,230 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:48:19,230 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:18:19 GMT
+2019-08-27 12:48:19,230 DEBUG [main] headers:267 - << ATL-TraceId: 18215bb593ec4e91
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << X-AREQUESTID: 5e15dcb1-8106-4ea0-8149-151dabd35d45
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:48:19,231 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:48:19,232 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:48:19,232 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:48:19,232 DEBUG [main] wire:72 -  << "68[\r][\n]"
+2019-08-27 12:48:19,233 DEBUG [main] wire:86 -  << "{"id":"10004","key":"TES-5","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10004"}"
+2019-08-27 12:48:19,233 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,233 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:48:19,233 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,234 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@589b028e
+2019-08-27 12:48:19,234 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:48:19,234 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:48:19,235 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:48:19,236 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:48:19,236 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/TES-5]
+2019-08-27 12:48:19,236 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:48:19,236 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:48:19,236 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:48:19,237 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/TES-5 HTTP/1.1
+2019-08-27 12:48:19,237 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/TES-5 HTTP/1.1[\r][\n]"
+2019-08-27 12:48:19,237 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:48:19,237 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:48:19,238 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:48:19,238 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:48:19,238 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:48:19,238 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin[\r][\n]"
+2019-08-27 12:48:19,239 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:48:19,239 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/TES-5 HTTP/1.1
+2019-08-27 12:48:19,239 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:48:19,239 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:48:19,239 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:48:19,240 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:48:19,240 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:48:19,240 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_a83445908cb8104c3ec6528021f4f5a5dfedccda_lin
+2019-08-27 12:48:19,456 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:48:19,456 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:48:19,456 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:48:19,457 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:48:19,457 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:48:19,457 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:48:19,457 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:18:19 GMT[\r][\n]"
+2019-08-27 12:48:19,458 DEBUG [main] wire:72 -  << "ATL-TraceId: 61256c3acd4c2e49[\r][\n]"
+2019-08-27 12:48:19,458 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:48:19,458 DEBUG [main] wire:72 -  << "X-AREQUESTID: edbacf7f-3962-44ff-b803-fc7dc6736ad7[\r][\n]"
+2019-08-27 12:48:19,458 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:48:19,458 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:48:19,459 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:48:19,459 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:48:19,459 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:48:19,459 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,459 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:48:19,460 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:48:19,460 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:48:19,460 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:48:19,460 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:48:19,460 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:18:19 GMT
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << ATL-TraceId: 61256c3acd4c2e49
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << X-AREQUESTID: edbacf7f-3962-44ff-b803-fc7dc6736ad7
+2019-08-27 12:48:19,461 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:48:19,462 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:48:19,462 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:48:19,462 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:48:19,462 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:48:19,462 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:48:19,463 DEBUG [main] wire:72 -  << "16b0[\r][\n]"
+2019-08-27 12:48:19,464 DEBUG [main] wire:86 -  << "{"expand":"renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations","id":"10004","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10004","key":"TES-5","fields":{"statuscategorychangedate":"2019-08-27T12:48:19.188+0530","issuetype":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303},"timespent":null,"project":{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}},"fixVersions":[],"aggregatetimespent":null,"resolution":null,"resolutiondate":null,"workratio":-1,"watches":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-5/watchers","watchCount":1,"isWatching":true},"lastViewed":null,"created":"2019-08-27T12:48:19.065+0530","customfield_10020":null,"customfield_10021":null,"customfield_10100":null,"priority":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},"customfield_10101":null,"labels":[],"customfield_10016":null,"customfield_10017":null,"customfield_10018":{"hasEpicLinkFieldDependency":false,"showField":false,"nonEditableReason":{"reason":"PLUGIN_LICENSE_ERROR","message":"Portfolio for Jira must be licensed for the Parent Link to be available."}},"customfield_10019":"0|i0000v:","timeestimate":null,"aggregatetimeoriginalestimate":null,"versions":[],"issuelinks":[],"assignee":null,"updated":"2019-08-27T12:48:19.065+0530","status":{"self":"https://automatetestcase.atlassian.net/rest/api/2/status/10000","description":"","iconUrl":"https://automatetestcase.atlassian.net/","name":"To Do","id":"10000","statusCategory":{"self":"https://automatetestcase.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"To Do"}},"components":[],"timeoriginalestimate":null,"description":"passed expected [row 3 or column product name does not exist  in Excel] but found [TOKYO TALKIES]\n","customfield_10010":null,"customfield_10014":null,"customfield_10015":null,"timetracking":{},"customfield_10005":null,"customfield_10006":null,"customfield_10007":null,"security":null,"customfield_10008":null,"customfield_10009":null,"attachment":[],"aggregatetimeestimate":null,"summary":"searchProductgot failed due to some assertion or exception","creator":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"subtasks":[],"reporter":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"aggregateprogress":{"progress":0,"total":0},"customfield_10000":"{}","customfield_10001":null,"customfield_10002":null,"customfield_10003":null,"customfield_10004":null,"environment":null,"duedate":null,"progress":{"progress":0,"total":0},"comment":{"comments":[],"maxResults":0,"total":0,"startAt":0},"votes":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-5/votes","votes":0,"hasVoted":false},"worklog":{"startAt":0,"maxResults":20,"total":0,"worklogs":[]}}}"
+2019-08-27 12:48:19,464 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,464 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:48:19,465 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:48:19,465 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@22175d4f
+2019-08-27 12:48:19,465 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:48:19,471  INFO [main] LogReports:21 - The name of the testcase failed is :searchProduct
+2019-08-27 12:48:19,496 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:48:19,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:48:19,500 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:48:19,500 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:48:19,645 DEBUG [Finalizer] DefaultClientConnection:182 - Connection 0.0.0.0:53273<->18.136.214.11:443 closed
+2019-08-27 12:51:06,048  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (2f139b9fa73e49ab301ad9547c8ecb6f)
+2019-08-27 12:51:16,359  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 12:51:24,603 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:51:24,640 DEBUG [main] DefaultClientConnectionOperator:176 - Connecting to automatetestcase.atlassian.net:443
+2019-08-27 12:51:25,016 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:51:25,021 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:51:25,022 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:51:25,024 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:51:25,025 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:51:25,026 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1[\r][\n]"
+2019-08-27 12:51:25,028 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:51:25,028 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:51:25,028 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:51:25,029 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:51:25,029 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:51:25,030 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:51:25,032 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 12:51:25,033 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:51:25,034 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:51:25,035 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:51:25,035 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:51:25,036 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:51:25,206 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:51:25,209 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:51:25,209 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:51:25,210 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:51:25,210 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:51:25,211 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:51:25,211 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:21:25 GMT[\r][\n]"
+2019-08-27 12:51:25,212 DEBUG [main] wire:72 -  << "ATL-TraceId: 106410d3c7396130[\r][\n]"
+2019-08-27 12:51:25,212 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:51:25,213 DEBUG [main] wire:72 -  << "X-AREQUESTID: 3636f89c-0235-43e1-bf82-a92a92b6a933[\r][\n]"
+2019-08-27 12:51:25,213 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:51:25,214 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:51:25,214 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:51:25,215 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:51:25,215 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:51:25,216 DEBUG [main] wire:72 -  << "Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin; Path=/; Secure[\r][\n]"
+2019-08-27 12:51:25,217 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,217 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:51:25,217 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:51:25,218 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:51:25,218 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:51:25,218 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:51:25,219 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:51:25,219 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:51:25,220 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:21:25 GMT
+2019-08-27 12:51:25,220 DEBUG [main] headers:267 - << ATL-TraceId: 106410d3c7396130
+2019-08-27 12:51:25,221 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:51:25,221 DEBUG [main] headers:267 - << X-AREQUESTID: 3636f89c-0235-43e1-bf82-a92a92b6a933
+2019-08-27 12:51:25,222 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:51:25,222 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:51:25,222 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:51:25,223 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:51:25,223 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:51:25,223 DEBUG [main] headers:267 - << Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin; Path=/; Secure
+2019-08-27 12:51:25,236 DEBUG [main] ResponseProcessCookies:118 - Cookie accepted [atlassian.xsrf.token="f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin", version:0, domain:automatetestcase.atlassian.net, path:/, expiry:null]
+2019-08-27 12:51:25,238 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:51:25,246 DEBUG [main] wire:72 -  << "1876[\r][\n]"
+2019-08-27 12:51:25,248 DEBUG [main] wire:86 -  << "{"expand":"projects","projects":[{"expand":"issuetypes","self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"},"issuetypes":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"expand":"fields","fields":{"summary":{"required":true,"schema":{"type":"string","system":"summary"},"name":"Summary","key":"summary","hasDefaultValue":false,"operations":["set"]},"issuetype":{"required":true,"schema":{"type":"issuetype","system":"issuetype"},"name":"Issue Type","key":"issuetype","hasDefaultValue":false,"operations":[],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303}]},"components":{"required":false,"schema":{"type":"array","items":"component","system":"components"},"name":"Components","key":"components","hasDefaultValue":false,"operations":["add","set","remove"],"allowedValues":[]},"description":{"required":false,"schema":{"type":"string","system":"description"},"name":"Description","key":"description","hasDefaultValue":false,"operations":["set"]},"customfield_10020":{"required":false,"schema":{"type":"array","items":"string","custom":"com.pyxis.greenhopper.jira:gh-sprint","customId":10020},"name":"Sprint","key":"customfield_10020","hasDefaultValue":false,"operations":["set"]},"project":{"required":true,"schema":{"type":"project","system":"project"},"name":"Project","key":"project","hasDefaultValue":false,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}}]},"fixVersions":{"required":false,"schema":{"type":"array","items":"version","system":"fixVersions"},"name":"Fix versions","key":"fixVersions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"priority":{"required":false,"schema":{"type":"priority","system":"priority"},"name":"Priority","key":"priority","hasDefaultValue":true,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/1","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/highest.svg","name":"Highest","id":"1"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/2","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/high.svg","name":"High","id":"2"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/4","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/low.svg","name":"Low","id":"4"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/5","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/lowest.svg","name":"Lowest","id":"5"}],"defaultValue":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"}},"customfield_10014":{"required":false,"schema":{"type":"any","custom":"com.pyxis.greenhopper.jira:gh-epic-link","customId":10014},"name":"Epic Link","key":"customfield_10014","hasDefaultValue":false,"operations":["set"]},"labels":{"required":false,"schema":{"type":"array","items":"string","system":"labels"},"name":"Labels","key":"labels","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/1.0/labels/suggest?query=","hasDefaultValue":false,"operations":["add","set","remove"]},"environment":{"required":false,"schema":{"type":"string","system":"environment"},"name":"Environment","key":"environment","hasDefaultValue":false,"operations":["set"]},"attachment":{"required":false,"schema":{"type":"array","items":"attachment","system":"attachment"},"name":"Attachment","key":"attachment","hasDefaultValue":false,"operations":[]},"versions":{"required":false,"schema":{"type":"array","items":"version","system":"versions"},"name":"Affects versions","key":"versions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"issuelinks":{"required":false,"schema":{"type":"array","items":"issuelinks","system":"issuelinks"},"name":"Linked Issues","key":"issuelinks","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/issue/picker?currentProjectId=&showSubTaskParent=true&showSubTasks=true&currentIssueKey=null&query=","hasDefaultValue":false,"operations":["add"]},"assignee":{"required":false,"schema":{"type":"user","system":"assignee"},"name":"Assignee","key":"assignee","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/user/assignable/search?project=TES&query=","hasDefaultValue":false,"operations":["set"]}}}]}]}"
+2019-08-27 12:51:25,250 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,250 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:51:25,250 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,251 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@28a2a3e7
+2019-08-27 12:51:25,251 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:51:25,353 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:51:25,354 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:51:25,355 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:51:25,356 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/]
+2019-08-27 12:51:25,357 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:51:25,358 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:51:25,358 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:51:25,359 DEBUG [main] DefaultClientConnection:276 - Sending request: POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:51:25,359 DEBUG [main] wire:72 -  >> "POST /rest/api/latest/issue/ HTTP/1.1[\r][\n]"
+2019-08-27 12:51:25,360 DEBUG [main] wire:72 -  >> "Content-Type: application/json[\r][\n]"
+2019-08-27 12:51:25,360 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:51:25,361 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:51:25,361 DEBUG [main] wire:72 -  >> "Content-Length: 233[\r][\n]"
+2019-08-27 12:51:25,362 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:51:25,362 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:51:25,362 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:51:25,362 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin[\r][\n]"
+2019-08-27 12:51:25,362 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:51:25,363 DEBUG [main] headers:280 - >> POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Content-Type: application/json
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Content-Length: 233
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:51:25,363 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:51:25,364 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin
+2019-08-27 12:51:25,364 DEBUG [main] wire:86 -  >> "{"fields":{"summary":"searchProductgot failed due to some assertion or exception","issuetype":{"name":"Bug"},"project":{"key":"TES"},"description":"passed expected [PINK DROP SHOULDER OVERSIZED T SHIRT] but found [TOKYO TALKIES]\n"}}"
+2019-08-27 12:51:25,811 DEBUG [main] wire:72 -  << "HTTP/1.1 201 [\r][\n]"
+2019-08-27 12:51:25,812 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:51:25,812 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:51:25,812 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:51:25,813 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:51:25,813 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:21:25 GMT[\r][\n]"
+2019-08-27 12:51:25,814 DEBUG [main] wire:72 -  << "ATL-TraceId: 87481a6f810ef144[\r][\n]"
+2019-08-27 12:51:25,814 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:51:25,815 DEBUG [main] wire:72 -  << "X-AREQUESTID: 33604641-fd62-448c-aee3-464e7648efda[\r][\n]"
+2019-08-27 12:51:25,816 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:51:25,816 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:51:25,817 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:51:25,817 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:51:25,818 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:51:25,818 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,819 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 201 
+2019-08-27 12:51:25,819 DEBUG [main] headers:264 - << HTTP/1.1 201 
+2019-08-27 12:51:25,820 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:51:25,820 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:51:25,821 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:51:25,821 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:51:25,821 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:21:25 GMT
+2019-08-27 12:51:25,822 DEBUG [main] headers:267 - << ATL-TraceId: 87481a6f810ef144
+2019-08-27 12:51:25,822 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:51:25,823 DEBUG [main] headers:267 - << X-AREQUESTID: 33604641-fd62-448c-aee3-464e7648efda
+2019-08-27 12:51:25,823 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:51:25,824 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:51:25,824 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:51:25,825 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:51:25,825 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:51:25,826 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:51:25,827 DEBUG [main] wire:72 -  << "68[\r][\n]"
+2019-08-27 12:51:25,827 DEBUG [main] wire:86 -  << "{"id":"10005","key":"TES-6","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10005"}"
+2019-08-27 12:51:25,828 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,829 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:51:25,829 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:25,830 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@589b028e
+2019-08-27 12:51:25,830 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:51:25,831 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 12:51:25,832 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 12:51:25,834 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 12:51:25,834 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/TES-6]
+2019-08-27 12:51:25,834 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 12:51:25,834 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 12:51:25,834 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 12:51:25,835 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/TES-6 HTTP/1.1
+2019-08-27 12:51:25,835 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/TES-6 HTTP/1.1[\r][\n]"
+2019-08-27 12:51:25,835 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 12:51:25,835 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 12:51:25,835 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 12:51:25,835 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 12:51:25,836 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 12:51:25,836 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin[\r][\n]"
+2019-08-27 12:51:25,836 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 12:51:25,836 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/TES-6 HTTP/1.1
+2019-08-27 12:51:25,836 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 12:51:25,836 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 12:51:25,836 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 12:51:25,836 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 12:51:25,837 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 12:51:25,837 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_8c0ec6982adecddd7900279150e9d9da9642157e_lin
+2019-08-27 12:51:26,039 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 12:51:26,040 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 12:51:26,041 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 12:51:26,042 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 12:51:26,043 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 12:51:26,044 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 12:51:26,045 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:21:26 GMT[\r][\n]"
+2019-08-27 12:51:26,045 DEBUG [main] wire:72 -  << "ATL-TraceId: d4407cedfac57025[\r][\n]"
+2019-08-27 12:51:26,046 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 12:51:26,047 DEBUG [main] wire:72 -  << "X-AREQUESTID: 43961626-09ef-4b6b-9aff-555a2baee2e5[\r][\n]"
+2019-08-27 12:51:26,048 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 12:51:26,049 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 12:51:26,049 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 12:51:26,050 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 12:51:26,051 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 12:51:26,052 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:26,052 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 12:51:26,053 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 12:51:26,054 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 12:51:26,054 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 12:51:26,055 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 12:51:26,055 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 12:51:26,056 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 12:51:26,056 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:21:26 GMT
+2019-08-27 12:51:26,057 DEBUG [main] headers:267 - << ATL-TraceId: d4407cedfac57025
+2019-08-27 12:51:26,057 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 12:51:26,057 DEBUG [main] headers:267 - << X-AREQUESTID: 43961626-09ef-4b6b-9aff-555a2baee2e5
+2019-08-27 12:51:26,058 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 12:51:26,058 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 12:51:26,059 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 12:51:26,059 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 12:51:26,060 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 12:51:26,061 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 12:51:26,062 DEBUG [main] wire:72 -  << "169f[\r][\n]"
+2019-08-27 12:51:26,064 DEBUG [main] wire:86 -  << "{"expand":"renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations","id":"10005","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10005","key":"TES-6","fields":{"statuscategorychangedate":"2019-08-27T12:51:25.775+0530","issuetype":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303},"timespent":null,"project":{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}},"fixVersions":[],"aggregatetimespent":null,"resolution":null,"resolutiondate":null,"workratio":-1,"lastViewed":null,"watches":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-6/watchers","watchCount":1,"isWatching":true},"created":"2019-08-27T12:51:25.580+0530","customfield_10020":null,"customfield_10021":null,"customfield_10100":null,"priority":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},"customfield_10101":null,"labels":[],"customfield_10016":null,"customfield_10017":null,"customfield_10018":{"hasEpicLinkFieldDependency":false,"showField":false,"nonEditableReason":{"reason":"PLUGIN_LICENSE_ERROR","message":"Portfolio for Jira must be licensed for the Parent Link to be available."}},"customfield_10019":"0|i00013:","timeestimate":null,"aggregatetimeoriginalestimate":null,"versions":[],"issuelinks":[],"assignee":null,"updated":"2019-08-27T12:51:25.580+0530","status":{"self":"https://automatetestcase.atlassian.net/rest/api/2/status/10000","description":"","iconUrl":"https://automatetestcase.atlassian.net/","name":"To Do","id":"10000","statusCategory":{"self":"https://automatetestcase.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"To Do"}},"components":[],"timeoriginalestimate":null,"description":"passed expected [PINK DROP SHOULDER OVERSIZED T SHIRT] but found [TOKYO TALKIES]\n","customfield_10010":null,"customfield_10014":null,"timetracking":{},"customfield_10015":null,"customfield_10005":null,"customfield_10006":null,"security":null,"customfield_10007":null,"customfield_10008":null,"customfield_10009":null,"aggregatetimeestimate":null,"attachment":[],"summary":"searchProductgot failed due to some assertion or exception","creator":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"subtasks":[],"reporter":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"customfield_10000":"{}","aggregateprogress":{"progress":0,"total":0},"customfield_10001":null,"customfield_10002":null,"customfield_10003":null,"customfield_10004":null,"environment":null,"duedate":null,"progress":{"progress":0,"total":0},"comment":{"comments":[],"maxResults":0,"total":0,"startAt":0},"votes":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-6/votes","votes":0,"hasVoted":false},"worklog":{"startAt":0,"maxResults":20,"total":0,"worklogs":[]}}}"
+2019-08-27 12:51:26,067 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:26,068 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 12:51:26,069 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 12:51:26,070 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@22175d4f
+2019-08-27 12:51:26,071 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 12:51:26,082  INFO [main] LogReports:21 - The name of the testcase failed is :searchProduct
+2019-08-27 12:51:26,113 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:51:26,114 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:51:26,116 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:51:26,116 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:51:26,243 DEBUG [Finalizer] DefaultClientConnection:182 - Connection 0.0.0.0:53359<->18.136.214.9:443 closed
+2019-08-27 12:54:26,483  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (d13e790b0ce9e37c17231ea265b6bfb3)
+2019-08-27 12:54:35,299  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 12:54:42,636  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 12:54:42,637  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 12:54:42,794  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 12:54:42,994  INFO [main] LogReports:21 - selected option: L
+2019-08-27 12:54:51,841  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 12:54:51,842  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 12:54:52,016  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 12:54:52,237  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 12:54:57,622  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 12:54:57,622  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 12:54:57,786  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 12:54:57,786  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 12:54:57,857  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 12:54:57,858  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 12:54:57,934  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 12:54:57,987  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 12:55:00,745  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 12:55:01,170  INFO [main] LogReports:21 - capture success
+2019-08-27 12:55:01,194 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:55:01,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:55:01,197 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:55:01,198 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:56:27,366  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3aa593ffe5789b706413c2351ab8eb4a)
+2019-08-27 12:56:37,052  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 12:56:44,236  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 12:56:44,236  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 12:56:44,396  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 12:56:44,611  INFO [main] LogReports:21 - selected option: L
+2019-08-27 12:56:53,402  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 12:56:53,403  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 12:56:53,588  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 12:56:53,819  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 12:56:59,242  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 12:56:59,243  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 12:56:59,399  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 12:56:59,400  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 12:56:59,462  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 12:56:59,462  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 12:56:59,536  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 12:56:59,589  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 12:57:02,376  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 12:57:02,816  INFO [main] LogReports:21 - capture success
+2019-08-27 12:57:02,839 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:57:02,841 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:57:02,844 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:57:02,844 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 12:58:58,953  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (5d0ecdeaa5c90584b2744b6e9521f17b)
+2019-08-27 12:59:08,259  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 12:59:13,440  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 12:59:13,440  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 12:59:13,683  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 12:59:13,987  INFO [main] LogReports:21 - selected option: 34
+2019-08-27 12:59:22,086  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 12:59:22,086  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 12:59:22,301  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 12:59:22,517  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 12:59:29,297  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 12:59:29,297  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 12:59:29,448  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+34
+2019-08-27 12:59:29,449  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 12:59:29,514  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 12:59:29,515  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 12:59:29,589  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 12:59:29,641  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 12:59:30,863  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 12:59:31,284  INFO [main] LogReports:21 - capture success
+2019-08-27 12:59:31,306 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 12:59:31,308 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 12:59:31,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 12:59:31,312 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:19:09,150  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0336bdfc402ddcaa79263200a2af898a)
+2019-08-27 13:19:19,633  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 13:19:25,164  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:19:25,164  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:19:25,399  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:19:25,662  INFO [main] LogReports:21 - selected option: 32
+2019-08-27 13:19:33,642  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:19:33,642  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:19:33,813  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 13:19:34,039  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 13:19:41,313  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:19:41,313  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:19:41,482  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+32
+2019-08-27 13:19:41,483  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 13:19:41,550  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 13:19:41,550  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 13:19:41,636  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 13:19:41,690  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 13:19:42,832  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 13:19:43,217  INFO [main] LogReports:21 - capture success
+2019-08-27 13:19:43,242 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:19:43,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:19:43,246 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:19:43,247 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:22:11,772  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6d31d598834bb98adaf49a0924ea8c4a)
+2019-08-27 13:22:21,078  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 13:22:28,038  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 13:22:28,039  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 13:22:28,196  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 13:22:38,462 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 13:22:38,504 DEBUG [main] DefaultClientConnectionOperator:176 - Connecting to automatetestcase.atlassian.net:443
+2019-08-27 13:22:38,920 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 13:22:38,922 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 13:22:38,923 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 13:22:38,924 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 13:22:38,924 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 13:22:38,925 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1[\r][\n]"
+2019-08-27 13:22:38,926 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 13:22:38,927 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 13:22:38,927 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 13:22:38,929 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 13:22:38,929 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 13:22:38,929 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 13:22:38,930 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/createmeta?expand=projects.issuetypes.fields&issuetypeNames=Bug&projectKeys=TES HTTP/1.1
+2019-08-27 13:22:38,930 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 13:22:38,931 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 13:22:38,931 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 13:22:38,931 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 13:22:38,932 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 13:22:39,340 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 13:22:39,344 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 13:22:39,344 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 13:22:39,345 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 13:22:39,345 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 13:22:39,346 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 13:22:39,346 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:52:39 GMT[\r][\n]"
+2019-08-27 13:22:39,347 DEBUG [main] wire:72 -  << "ATL-TraceId: 1f4165bb9e6cbaae[\r][\n]"
+2019-08-27 13:22:39,347 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 13:22:39,348 DEBUG [main] wire:72 -  << "X-AREQUESTID: 210be157-5b7e-4093-9d46-af0df8752276[\r][\n]"
+2019-08-27 13:22:39,348 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 13:22:39,349 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 13:22:39,349 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 13:22:39,350 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 13:22:39,350 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 13:22:39,351 DEBUG [main] wire:72 -  << "Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin; Path=/; Secure[\r][\n]"
+2019-08-27 13:22:39,352 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:39,352 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 13:22:39,352 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 13:22:39,353 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 13:22:39,353 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 13:22:39,353 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 13:22:39,353 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 13:22:39,354 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 13:22:39,354 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:52:39 GMT
+2019-08-27 13:22:39,354 DEBUG [main] headers:267 - << ATL-TraceId: 1f4165bb9e6cbaae
+2019-08-27 13:22:39,354 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 13:22:39,355 DEBUG [main] headers:267 - << X-AREQUESTID: 210be157-5b7e-4093-9d46-af0df8752276
+2019-08-27 13:22:39,355 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 13:22:39,355 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 13:22:39,356 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 13:22:39,356 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 13:22:39,356 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 13:22:39,356 DEBUG [main] headers:267 - << Set-Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin; Path=/; Secure
+2019-08-27 13:22:39,365 DEBUG [main] ResponseProcessCookies:118 - Cookie accepted [atlassian.xsrf.token="f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin", version:0, domain:automatetestcase.atlassian.net, path:/, expiry:null]
+2019-08-27 13:22:39,369 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 13:22:39,380 DEBUG [main] wire:72 -  << "1876[\r][\n]"
+2019-08-27 13:22:39,381 DEBUG [main] wire:86 -  << "{"expand":"projects","projects":[{"expand":"issuetypes","self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"},"issuetypes":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"expand":"fields","fields":{"summary":{"required":true,"schema":{"type":"string","system":"summary"},"name":"Summary","key":"summary","hasDefaultValue":false,"operations":["set"]},"issuetype":{"required":true,"schema":{"type":"issuetype","system":"issuetype"},"name":"Issue Type","key":"issuetype","hasDefaultValue":false,"operations":[],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303}]},"components":{"required":false,"schema":{"type":"array","items":"component","system":"components"},"name":"Components","key":"components","hasDefaultValue":false,"operations":["add","set","remove"],"allowedValues":[]},"description":{"required":false,"schema":{"type":"string","system":"description"},"name":"Description","key":"description","hasDefaultValue":false,"operations":["set"]},"customfield_10020":{"required":false,"schema":{"type":"array","items":"string","custom":"com.pyxis.greenhopper.jira:gh-sprint","customId":10020},"name":"Sprint","key":"customfield_10020","hasDefaultValue":false,"operations":["set"]},"project":{"required":true,"schema":{"type":"project","system":"project"},"name":"Project","key":"project","hasDefaultValue":false,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}}]},"fixVersions":{"required":false,"schema":{"type":"array","items":"version","system":"fixVersions"},"name":"Fix versions","key":"fixVersions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"priority":{"required":false,"schema":{"type":"priority","system":"priority"},"name":"Priority","key":"priority","hasDefaultValue":true,"operations":["set"],"allowedValues":[{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/1","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/highest.svg","name":"Highest","id":"1"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/2","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/high.svg","name":"High","id":"2"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/4","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/low.svg","name":"Low","id":"4"},{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/5","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/lowest.svg","name":"Lowest","id":"5"}],"defaultValue":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"}},"customfield_10014":{"required":false,"schema":{"type":"any","custom":"com.pyxis.greenhopper.jira:gh-epic-link","customId":10014},"name":"Epic Link","key":"customfield_10014","hasDefaultValue":false,"operations":["set"]},"labels":{"required":false,"schema":{"type":"array","items":"string","system":"labels"},"name":"Labels","key":"labels","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/1.0/labels/suggest?query=","hasDefaultValue":false,"operations":["add","set","remove"]},"environment":{"required":false,"schema":{"type":"string","system":"environment"},"name":"Environment","key":"environment","hasDefaultValue":false,"operations":["set"]},"attachment":{"required":false,"schema":{"type":"array","items":"attachment","system":"attachment"},"name":"Attachment","key":"attachment","hasDefaultValue":false,"operations":[]},"versions":{"required":false,"schema":{"type":"array","items":"version","system":"versions"},"name":"Affects versions","key":"versions","hasDefaultValue":false,"operations":["set","add","remove"],"allowedValues":[]},"issuelinks":{"required":false,"schema":{"type":"array","items":"issuelinks","system":"issuelinks"},"name":"Linked Issues","key":"issuelinks","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/issue/picker?currentProjectId=&showSubTaskParent=true&showSubTasks=true&currentIssueKey=null&query=","hasDefaultValue":false,"operations":["add"]},"assignee":{"required":false,"schema":{"type":"user","system":"assignee"},"name":"Assignee","key":"assignee","autoCompleteUrl":"https://automatetestcase.atlassian.net/rest/api/2/user/assignable/search?project=TES&query=","hasDefaultValue":false,"operations":["set"]}}}]}]}"
+2019-08-27 13:22:39,382 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:39,382 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 13:22:39,382 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:39,383 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@308a6984
+2019-08-27 13:22:39,383 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 13:22:39,485 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 13:22:39,486 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 13:22:39,488 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 13:22:39,489 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/]
+2019-08-27 13:22:39,489 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 13:22:39,490 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 13:22:39,490 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 13:22:39,490 DEBUG [main] DefaultClientConnection:276 - Sending request: POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 13:22:39,490 DEBUG [main] wire:72 -  >> "POST /rest/api/latest/issue/ HTTP/1.1[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Content-Type: application/json[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Content-Length: 568[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 13:22:39,491 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 13:22:39,492 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 13:22:39,492 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin[\r][\n]"
+2019-08-27 13:22:39,492 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 13:22:39,492 DEBUG [main] headers:280 - >> POST /rest/api/latest/issue/ HTTP/1.1
+2019-08-27 13:22:39,492 DEBUG [main] headers:283 - >> Content-Type: application/json
+2019-08-27 13:22:39,492 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 13:22:39,492 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 13:22:39,492 DEBUG [main] headers:283 - >> Content-Length: 568
+2019-08-27 13:22:39,493 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 13:22:39,493 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 13:22:39,493 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 13:22:39,493 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin
+2019-08-27 13:22:39,494 DEBUG [main] wire:86 -  >> "{"fields":{"summary":"searchProductgot failed due to some assertion or exception","issuetype":{"name":"Bug"},"project":{"key":"TES"},"description":"Cannot locate element with text: Small\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ATMECSINDT-076', ip: '192.168.119.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: unknown\n"}}"
+2019-08-27 13:22:40,090 DEBUG [main] wire:72 -  << "HTTP/1.1 201 [\r][\n]"
+2019-08-27 13:22:40,091 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 13:22:40,092 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 13:22:40,093 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 13:22:40,094 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 13:22:40,095 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:52:40 GMT[\r][\n]"
+2019-08-27 13:22:40,096 DEBUG [main] wire:72 -  << "ATL-TraceId: 2a426c17fe0bf95c[\r][\n]"
+2019-08-27 13:22:40,097 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 13:22:40,098 DEBUG [main] wire:72 -  << "X-AREQUESTID: c0e8e27a-ec94-4907-8102-82c0765ef336[\r][\n]"
+2019-08-27 13:22:40,099 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 13:22:40,100 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 13:22:40,101 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 13:22:40,102 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 13:22:40,103 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 13:22:40,103 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,104 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 201 
+2019-08-27 13:22:40,105 DEBUG [main] headers:264 - << HTTP/1.1 201 
+2019-08-27 13:22:40,106 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 13:22:40,107 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 13:22:40,108 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 13:22:40,108 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 13:22:40,109 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:52:40 GMT
+2019-08-27 13:22:40,110 DEBUG [main] headers:267 - << ATL-TraceId: 2a426c17fe0bf95c
+2019-08-27 13:22:40,111 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 13:22:40,112 DEBUG [main] headers:267 - << X-AREQUESTID: c0e8e27a-ec94-4907-8102-82c0765ef336
+2019-08-27 13:22:40,113 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 13:22:40,114 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 13:22:40,114 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 13:22:40,115 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 13:22:40,116 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 13:22:40,117 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 13:22:40,119 DEBUG [main] wire:72 -  << "68[\r][\n]"
+2019-08-27 13:22:40,120 DEBUG [main] wire:86 -  << "{"id":"10006","key":"TES-7","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10006"}"
+2019-08-27 13:22:40,121 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,122 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 13:22:40,123 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,124 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@676f0a60
+2019-08-27 13:22:40,125 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 13:22:40,126 DEBUG [main] BasicClientConnectionManager:164 - Get connection for route {s}->https://automatetestcase.atlassian.net:443
+2019-08-27 13:22:40,127 DEBUG [main] DefaultHttpClient:433 - Stale connection check
+2019-08-27 13:22:40,130 DEBUG [main] RequestAddCookies:122 - CookieSpec selected: default
+2019-08-27 13:22:40,132 DEBUG [main] RequestAddCookies:167 - Cookie [version: 0][name: atlassian.xsrf.token][value: f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin][domain: automatetestcase.atlassian.net][path: /][expiry: null] match [(secure)automatetestcase.atlassian.net:443/rest/api/latest/issue/TES-7]
+2019-08-27 13:22:40,132 DEBUG [main] RequestAuthCache:76 - Auth cache not set in the context
+2019-08-27 13:22:40,133 DEBUG [main] RequestProxyAuthentication:88 - Proxy auth state: UNCHALLENGED
+2019-08-27 13:22:40,133 DEBUG [main] DefaultHttpClient:684 - Attempt 1 to execute request
+2019-08-27 13:22:40,133 DEBUG [main] DefaultClientConnection:276 - Sending request: GET /rest/api/latest/issue/TES-7 HTTP/1.1
+2019-08-27 13:22:40,133 DEBUG [main] wire:72 -  >> "GET /rest/api/latest/issue/TES-7 HTTP/1.1[\r][\n]"
+2019-08-27 13:22:40,134 DEBUG [main] wire:72 -  >> "Accept: application/json[\r][\n]"
+2019-08-27 13:22:40,134 DEBUG [main] wire:72 -  >> "Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=[\r][\n]"
+2019-08-27 13:22:40,134 DEBUG [main] wire:72 -  >> "Host: automatetestcase.atlassian.net[\r][\n]"
+2019-08-27 13:22:40,135 DEBUG [main] wire:72 -  >> "Connection: Keep-Alive[\r][\n]"
+2019-08-27 13:22:40,135 DEBUG [main] wire:72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)[\r][\n]"
+2019-08-27 13:22:40,135 DEBUG [main] wire:72 -  >> "Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin[\r][\n]"
+2019-08-27 13:22:40,135 DEBUG [main] wire:72 -  >> "[\r][\n]"
+2019-08-27 13:22:40,136 DEBUG [main] headers:280 - >> GET /rest/api/latest/issue/TES-7 HTTP/1.1
+2019-08-27 13:22:40,136 DEBUG [main] headers:283 - >> Accept: application/json
+2019-08-27 13:22:40,136 DEBUG [main] headers:283 - >> Authorization: Basic YW5uZXNhc2kxODAzQGdtYWlsLmNvbTpPdlJlZ2lGa2N4UWxzQ0RLYjBvNDMyNTM=
+2019-08-27 13:22:40,137 DEBUG [main] headers:283 - >> Host: automatetestcase.atlassian.net
+2019-08-27 13:22:40,137 DEBUG [main] headers:283 - >> Connection: Keep-Alive
+2019-08-27 13:22:40,137 DEBUG [main] headers:283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_211)
+2019-08-27 13:22:40,138 DEBUG [main] headers:283 - >> Cookie: atlassian.xsrf.token=f0a83197-d4a8-447f-a95d-312ea1661b9c_48b1a0e112134c0995e32465abd3e037d0db4018_lin
+2019-08-27 13:22:40,328 DEBUG [main] wire:72 -  << "HTTP/1.1 200 [\r][\n]"
+2019-08-27 13:22:40,329 DEBUG [main] wire:72 -  << "Server: AtlassianProxy/1.15.8.1[\r][\n]"
+2019-08-27 13:22:40,330 DEBUG [main] wire:72 -  << "Vary: Accept-Encoding[\r][\n]"
+2019-08-27 13:22:40,331 DEBUG [main] wire:72 -  << "Cache-Control: no-cache, no-store, no-transform[\r][\n]"
+2019-08-27 13:22:40,331 DEBUG [main] wire:72 -  << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2019-08-27 13:22:40,332 DEBUG [main] wire:72 -  << "Strict-Transport-Security: max-age=315360000; includeSubDomains; preload[\r][\n]"
+2019-08-27 13:22:40,332 DEBUG [main] wire:72 -  << "Date: Tue, 27 Aug 2019 07:52:40 GMT[\r][\n]"
+2019-08-27 13:22:40,333 DEBUG [main] wire:72 -  << "ATL-TraceId: ffcb5cbd3958b1af[\r][\n]"
+2019-08-27 13:22:40,333 DEBUG [main] wire:72 -  << "X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0[\r][\n]"
+2019-08-27 13:22:40,334 DEBUG [main] wire:72 -  << "X-AREQUESTID: 626b0933-fa62-4076-828e-3e669850e4ce[\r][\n]"
+2019-08-27 13:22:40,334 DEBUG [main] wire:72 -  << "X-XSS-Protection: 1; mode=block[\r][\n]"
+2019-08-27 13:22:40,335 DEBUG [main] wire:72 -  << "Transfer-Encoding: chunked[\r][\n]"
+2019-08-27 13:22:40,336 DEBUG [main] wire:72 -  << "Timing-Allow-Origin: *[\r][\n]"
+2019-08-27 13:22:40,336 DEBUG [main] wire:72 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2019-08-27 13:22:40,337 DEBUG [main] wire:72 -  << "Connection: keep-alive[\r][\n]"
+2019-08-27 13:22:40,337 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,338 DEBUG [main] DefaultClientConnection:261 - Receiving response: HTTP/1.1 200 
+2019-08-27 13:22:40,338 DEBUG [main] headers:264 - << HTTP/1.1 200 
+2019-08-27 13:22:40,339 DEBUG [main] headers:267 - << Server: AtlassianProxy/1.15.8.1
+2019-08-27 13:22:40,339 DEBUG [main] headers:267 - << Vary: Accept-Encoding
+2019-08-27 13:22:40,339 DEBUG [main] headers:267 - << Cache-Control: no-cache, no-store, no-transform
+2019-08-27 13:22:40,340 DEBUG [main] headers:267 - << Content-Type: application/json;charset=UTF-8
+2019-08-27 13:22:40,340 DEBUG [main] headers:267 - << Strict-Transport-Security: max-age=315360000; includeSubDomains; preload
+2019-08-27 13:22:40,341 DEBUG [main] headers:267 - << Date: Tue, 27 Aug 2019 07:52:40 GMT
+2019-08-27 13:22:40,341 DEBUG [main] headers:267 - << ATL-TraceId: ffcb5cbd3958b1af
+2019-08-27 13:22:40,342 DEBUG [main] headers:267 - << X-AACCOUNTID: 5d5d10d15b488e0cfff97ef0
+2019-08-27 13:22:40,342 DEBUG [main] headers:267 - << X-AREQUESTID: 626b0933-fa62-4076-828e-3e669850e4ce
+2019-08-27 13:22:40,342 DEBUG [main] headers:267 - << X-XSS-Protection: 1; mode=block
+2019-08-27 13:22:40,342 DEBUG [main] headers:267 - << Transfer-Encoding: chunked
+2019-08-27 13:22:40,343 DEBUG [main] headers:267 - << Timing-Allow-Origin: *
+2019-08-27 13:22:40,343 DEBUG [main] headers:267 - << X-Content-Type-Options: nosniff
+2019-08-27 13:22:40,344 DEBUG [main] headers:267 - << Connection: keep-alive
+2019-08-27 13:22:40,344 DEBUG [main] DefaultHttpClient:511 - Connection can be kept alive indefinitely
+2019-08-27 13:22:40,345 DEBUG [main] wire:72 -  << "17ee[\r][\n]"
+2019-08-27 13:22:40,346 DEBUG [main] wire:86 -  << "{"expand":"renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations","id":"10006","self":"https://automatetestcase.atlassian.net/rest/api/latest/issue/10006","key":"TES-7","fields":{"statuscategorychangedate":"2019-08-27T13:22:40.040+0530","issuetype":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issuetype/10103","id":"10103","description":"A problem which impairs or prevents the functions of the product.","iconUrl":"https://automatetestcase.atlassian.net/secure/viewavatar?size=medium&avatarId=10303&avatarType=issuetype","name":"Bug","subtask":false,"avatarId":10303},"timespent":null,"project":{"self":"https://automatetestcase.atlassian.net/rest/api/2/project/10000","id":"10000","key":"TES","name":"TestProject","projectTypeKey":"software","simplified":false,"avatarUrls":{"48x48":"https://automatetestcase.atlassian.net/secure/projectavatar?pid=10000&avatarId=10412","24x24":"https://automatetestcase.atlassian.net/secure/projectavatar?size=small&s=small&pid=10000&avatarId=10412","16x16":"https://automatetestcase.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=10000&avatarId=10412","32x32":"https://automatetestcase.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=10000&avatarId=10412"}},"fixVersions":[],"aggregatetimespent":null,"resolution":null,"resolutiondate":null,"workratio":-1,"lastViewed":null,"watches":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-7/watchers","watchCount":1,"isWatching":true},"created":"2019-08-27T13:22:39.827+0530","customfield_10020":null,"customfield_10021":null,"customfield_10100":null,"priority":{"self":"https://automatetestcase.atlassian.net/rest/api/2/priority/3","iconUrl":"https://automatetestcase.atlassian.net/images/icons/priorities/medium.svg","name":"Medium","id":"3"},"customfield_10101":null,"labels":[],"customfield_10016":null,"customfield_10017":null,"customfield_10018":{"hasEpicLinkFieldDependency":false,"showField":false,"nonEditableReason":{"reason":"PLUGIN_LICENSE_ERROR","message":"Portfolio for Jira must be licensed for the Parent Link to be available."}},"customfield_10019":"0|i0001b:","timeestimate":null,"aggregatetimeoriginalestimate":null,"versions":[],"issuelinks":[],"assignee":null,"updated":"2019-08-27T13:22:39.827+0530","status":{"self":"https://automatetestcase.atlassian.net/rest/api/2/status/10000","description":"","iconUrl":"https://automatetestcase.atlassian.net/","name":"To Do","id":"10000","statusCategory":{"self":"https://automatetestcase.atlassian.net/rest/api/2/statuscategory/2","id":2,"key":"new","colorName":"blue-gray","name":"To Do"}},"components":[],"timeoriginalestimate":null,"description":"Cannot locate element with text: Small\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'ATMECSINDT-076', ip: '192.168.119.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: driver.version: unknown\n","customfield_10010":null,"customfield_10014":null,"customfield_10015":null,"timetracking":{},"customfield_10005":null,"customfield_10006":null,"customfield_10007":null,"security":null,"customfield_10008":null,"aggregatetimeestimate":null,"attachment":[],"customfield_10009":null,"summary":"searchProductgot failed due to some assertion or exception","creator":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"subtasks":[],"reporter":{"self":"https://automatetestcase.atlassian.net/rest/api/2/user?accountId=5d5d10d15b488e0cfff97ef0","name":"admin","key":"admin","accountId":"5d5d10d15b488e0cfff97ef0","emailAddress":"annesasi1803@gmail.com","avatarUrls":{"48x48":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=48&s=48","24x24":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=24&s=24","16x16":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=16&s=16","32x32":"https://secure.gravatar.com/avatar/2d7d5308cc4db956f4b453dd28a0e7aa?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAS-4.png&size=32&s=32"},"displayName":"anne s","active":true,"timeZone":"Asia/Calcutta","accountType":"atlassian"},"aggregateprogress":{"progress":0,"total":0},"customfield_10000":"{}","customfield_10001":null,"customfield_10002":null,"customfield_10003":null,"customfield_10004":null,"environment":null,"duedate":null,"progress":{"progress":0,"total":0},"comment":{"comments":[],"maxResults":0,"total":0,"startAt":0},"votes":{"self":"https://automatetestcase.atlassian.net/rest/api/2/issue/TES-7/votes","votes":0,"hasVoted":false},"worklog":{"startAt":0,"maxResults":20,"total":0,"worklogs":[]}}}"
+2019-08-27 13:22:40,347 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,348 DEBUG [main] wire:72 -  << "0[\r][\n]"
+2019-08-27 13:22:40,348 DEBUG [main] wire:72 -  << "[\r][\n]"
+2019-08-27 13:22:40,349 DEBUG [main] BasicClientConnectionManager:203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@5d10455d
+2019-08-27 13:22:40,349 DEBUG [main] BasicClientConnectionManager:228 - Connection can be kept alive indefinitely
+2019-08-27 13:22:40,362  INFO [main] LogReports:21 - The name of the testcase failed is :searchProduct
+2019-08-27 13:22:40,392 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:22:40,393 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:22:40,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:22:40,396 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:22:40,499 DEBUG [Finalizer] DefaultClientConnection:182 - Connection 0.0.0.0:53991<->18.136.214.9:443 closed
+2019-08-27 13:26:02,270  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4cdac8389fba5bc5e580fb4d53e44882)
+2019-08-27 13:26:11,206  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 13:26:18,642  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 13:26:18,643  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 13:26:18,809  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 13:26:19,059  INFO [main] LogReports:21 - selected option: L
+2019-08-27 13:26:27,879  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:26:27,879  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:26:28,078  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:26:28,293  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 13:26:34,269  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:26:34,269  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:26:34,474  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 13:26:34,475  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 13:26:34,544  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 13:26:34,544  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 13:26:34,622  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 13:26:34,672  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 13:26:37,581  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 13:26:38,102  INFO [main] LogReports:21 - capture success
+2019-08-27 13:26:38,139 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:26:38,140 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:26:38,144 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:26:38,144 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:31:40,651  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (3377d062e33b7d4e149f6017e88b9639)
+2019-08-27 13:31:49,759  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 13:31:54,805  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:31:54,805  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:31:55,104  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:31:55,372  INFO [main] LogReports:21 - selected option: 32
+2019-08-27 13:32:02,946  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:32:02,947  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:32:03,195  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 13:32:03,405  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 13:32:10,631  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:32:10,631  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:32:10,835  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+32
+2019-08-27 13:32:10,836  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 13:32:10,912  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 13:32:10,912  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 13:32:10,994  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 13:32:11,053  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 13:32:12,199  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 13:32:12,591  INFO [main] LogReports:21 - capture success
+2019-08-27 13:32:12,614 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:32:12,616 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:32:12,618 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:32:12,619 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:32:51,106  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (cb0a69d1a140fe9b4285cb3ad2a680ac)
+2019-08-27 13:33:00,361  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 13:33:07,779  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 13:33:07,779  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 13:33:07,997  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 13:33:08,251  INFO [main] LogReports:21 - selected option: L
+2019-08-27 13:33:17,346  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:33:17,346  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:33:17,589  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:33:17,814  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 13:33:23,764  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:33:23,764  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:33:23,993  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 13:33:23,993  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 13:33:24,061  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 13:33:24,062  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 13:33:24,153  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 13:33:24,243  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 13:33:27,036  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 13:33:27,447  INFO [main] LogReports:21 - capture success
+2019-08-27 13:33:27,469 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:33:27,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:33:27,472 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:33:27,473 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:36:14,512  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (ad1bf0b80ec0a3aef4b57ff2a8d72a27)
+2019-08-27 13:36:25,325  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 13:36:32,948  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 13:36:32,949  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 13:36:33,181  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 13:36:33,473  INFO [main] LogReports:21 - selected option: L
+2019-08-27 13:36:42,967  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:36:42,968  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:36:43,299  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:36:43,604  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 13:36:50,351  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:36:50,351  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:36:50,555  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 13:36:50,555  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 13:36:50,622  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 13:36:50,622  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 13:36:50,715  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 13:36:50,782  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 13:36:53,686  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 13:36:54,100  INFO [main] LogReports:21 - capture success
+2019-08-27 13:36:54,124 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:36:54,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:36:54,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:36:54,130 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:36:58,202  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (de7975cc8290b40f86ad8cfccf4a5054)
+2019-08-27 13:37:08,260  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 13:37:13,769  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:37:13,770  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 13:37:14,237  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:37:14,631  INFO [main] LogReports:21 - selected option: 32
+2019-08-27 13:37:23,042  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:37:23,043  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 13:37:23,435  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 13:37:23,746  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 13:37:31,750  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:37:31,751  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:37:31,994  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+32
+2019-08-27 13:37:31,994  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 13:37:32,080  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 13:37:32,081  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 13:37:32,180  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 13:37:32,253  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 13:37:33,441  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 13:37:33,904  INFO [main] LogReports:21 - capture success
+2019-08-27 13:37:33,906 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:37:33,907 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:37:33,908 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:37:33,909 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 13:55:56,433  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (1be8f6908a4f5ac64c9fb3a02099d756)
+2019-08-27 13:56:15,327  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 13:56:15,328  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 13:56:15,692  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 13:56:16,023  INFO [main] LogReports:21 - selected option: L
+2019-08-27 13:56:26,624  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:56:26,625  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 13:56:27,174  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 13:56:27,550  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 13:56:35,331  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 13:56:35,332  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 13:56:35,762  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 13:56:35,763  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 13:56:35,930  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 13:56:35,931  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 13:56:36,087  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 13:56:36,183  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 13:56:40,122  INFO [main] LogReports:21 - capture success
+2019-08-27 13:56:40,161 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 13:56:40,164 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 13:56:40,168 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 13:56:40,169 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 14:49:22,348  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f515ee8e4e86962a956b0f9b6c6a1b87)
+2019-08-27 14:49:45,596  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 14:49:45,597  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 14:49:46,470  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 14:49:47,236  INFO [main] LogReports:21 - selected option: L
+2019-08-27 14:50:04,297  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:50:04,299  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:50:05,020  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 14:50:05,637  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 14:50:21,245  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 14:50:21,246  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 14:50:22,117  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 14:50:22,118  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 14:50:22,624  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 14:50:22,624  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 14:50:23,551  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 14:50:23,935  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 14:50:30,952  INFO [main] LogReports:21 - capture success
+2019-08-27 14:50:31,207 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en", UTF-8, parsed); will try to load it.
+2019-08-27 14:50:31,211 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 14:50:31,225 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 14:50:31,227 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 14:52:20,524  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0f6767e66a47a6c9833ff3f1afc4e2f5)
+2019-08-27 14:52:46,217  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 14:52:46,219  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 14:52:46,913  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 14:52:48,222  INFO [main] LogReports:21 - selected option: L
+2019-08-27 14:53:10,441  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:53:10,442  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:53:11,768  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 14:53:12,843  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 14:53:28,371  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 14:53:28,372  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 14:53:29,230  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 14:53:29,231  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 14:53:29,433  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 14:53:29,434  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 14:53:30,634  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 14:53:30,790  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 14:53:37,911  INFO [main] LogReports:21 - capture success
+2019-08-27 14:53:38,290 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 14:53:38,294 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 14:53:38,300 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 14:53:38,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 14:53:38,306 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 14:53:40,632 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 14:53:40,634 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 14:53:40,635 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 14:53:40,637 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 14:53:40,638 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 14:55:26,172  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (0612dd33a3b6d5345af77c49feaca2b3)
+2019-08-27 14:55:47,275  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 14:55:47,276  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 14:55:48,086  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 14:55:48,684  INFO [main] LogReports:21 - selected option: L
+2019-08-27 14:56:04,964  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:56:04,965  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 14:56:06,186  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 14:56:06,886  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 14:56:20,474  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 14:56:20,475  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 14:56:21,243  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 14:56:21,244  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 14:56:21,534  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 14:56:21,536  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 14:56:22,382  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 14:56:22,764  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 14:56:29,895  INFO [main] LogReports:21 - capture success
+2019-08-27 14:56:30,126 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 14:56:30,128 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 14:56:30,142 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 14:56:30,145 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 14:56:30,146 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 14:56:31,818 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 14:56:31,819 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 14:56:31,820 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 14:56:31,822 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 14:56:31,823 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 15:00:28,048  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (8e316f9d5120a058396eb95aad5d5ada)
+2019-08-27 15:00:47,759  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 15:00:47,759  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 15:00:48,174  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 15:00:48,659  INFO [main] LogReports:21 - selected option: L
+2019-08-27 15:01:00,974  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:01:00,975  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:01:01,640  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 15:01:02,235  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 15:01:11,916  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 15:01:11,917  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 15:01:12,755  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 15:01:12,756  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 15:01:13,030  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 15:01:13,031  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 15:01:14,232  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 15:01:14,393  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 15:01:20,620  INFO [main] LogReports:21 - capture success
+2019-08-27 15:01:22,551 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 15:01:22,556 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 15:01:22,560 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 15:01:22,562 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 15:01:22,563 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 15:01:23,017 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 15:01:23,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 15:01:23,019 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 15:01:23,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 15:01:23,021 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 15:07:21,425  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (4e3231e8842dfc960e7aba8805f68075)
+2019-08-27 15:07:48,979  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 15:07:48,980  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 15:07:49,807  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 15:07:50,692  INFO [main] LogReports:21 - selected option: L
+2019-08-27 15:08:08,982  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:08:08,983  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:08:09,930  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 15:08:10,796  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 15:08:24,343  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 15:08:24,343  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 15:08:25,394  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 15:08:25,395  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 15:08:26,418  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 15:08:26,419  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 15:08:26,765  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 15:08:27,096  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 15:08:33,316  INFO [main] LogReports:21 - capture success
+2019-08-27 15:08:34,881 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 15:08:34,885 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 15:08:34,891 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 15:08:34,894 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 15:08:34,895 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 15:12:02,297  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (f58580bb4783f1c4db87266e99c770cb)
+2019-08-27 15:12:17,147  INFO [main] LogReports:21 - searchProduct test case started
+2019-08-27 15:12:35,654  INFO [main] LogReports:21 - Actual Title of the page:TOKYO TALKIES
+2019-08-27 15:12:35,659  INFO [main] LogReports:21 - ExpectedTitle of the page:TOKYO TALKIES
+2019-08-27 15:12:36,960  INFO [main] LogReports:21 - selected option: Red
+2019-08-27 15:12:37,989  INFO [main] LogReports:21 - selected option: L
+2019-08-27 15:13:03,543  INFO [main] LogReports:21 - Actual Title of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:13:03,544  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK CROSS BACK MAXI DRESS
+2019-08-27 15:13:04,916  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 15:13:05,935  INFO [main] LogReports:21 - selected option: Small
+2019-08-27 15:13:23,447  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 15:13:23,448  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 15:13:24,222  INFO [main] LogReports:21 - Name of the product1:TOKYO TALKIES
+COLOR:
+RED
+SIZE:
+L
+2019-08-27 15:13:24,224  INFO [main] LogReports:21 - Price of the product1:0100.00
+2019-08-27 15:13:24,393  INFO [main] LogReports:21 - Name of the product2:BLACK CROSS BACK MAXI DRESS - BLACK
+SIZE:
+SMALL
+2019-08-27 15:13:24,393  INFO [main] LogReports:21 - Price of the product2:020.00
+2019-08-27 15:13:24,780  INFO [main] LogReports:21 - total price: 120.0
+2019-08-27 15:13:25,744  INFO [main] LogReports:21 - Expected Grand Total:120.00
+2019-08-27 15:13:33,043  INFO [main] LogReports:21 - The name of the testcase passed is :searchProduct
+2019-08-27 15:13:35,065  INFO [main] LogReports:21 - capture success
+2019-08-27 15:13:38,284 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 15:13:38,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 15:13:38,297 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 15:13:38,301 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 15:13:38,303 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-08-27 15:13:45,850  INFO [main] LogReports:21 - ChromeDriver: chrome on XP (6889d78b68bc40bfd8b1b4a52ed8892d)
+2019-08-27 15:14:00,029  INFO [main] LogReports:21 - selectProduct test case started
+2019-08-27 15:14:09,500  INFO [main] LogReports:21 - Actual Title of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 15:14:09,501  INFO [main] LogReports:21 - ExpectedTitle of the page:BLACK LUX GRAPHIC T-SHIRT
+2019-08-27 15:14:10,683  INFO [main] LogReports:21 - selected option: Black
+2019-08-27 15:14:11,640  INFO [main] LogReports:21 - selected option: 32
+2019-08-27 15:14:38,016  INFO [main] LogReports:21 - Actual Title of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 15:14:38,020  INFO [main] LogReports:21 - ExpectedTitle of the page:PINK DROP SHOULDER OVERSIZED T SHIRT
+2019-08-27 15:14:39,350  INFO [main] LogReports:21 - selected option: Pink
+2019-08-27 15:14:40,081  INFO [main] LogReports:21 - selected option: 36
+2019-08-27 15:15:00,988  INFO [main] LogReports:21 - Actual Title of the page:CART
+2019-08-27 15:15:00,989  INFO [main] LogReports:21 - ExpectedTitle of the page:CART
+2019-08-27 15:15:03,774  INFO [main] LogReports:21 - Name of the product1:BLACK LUX GRAPHIC T-SHIRT - BLACK
+SIZE:
+32
+2019-08-27 15:15:03,774  INFO [main] LogReports:21 - Price of the product1:018.00
+2019-08-27 15:15:03,947  INFO [main] LogReports:21 - Name of the product2:PINK DROP SHOULDER OVERSIZED T SHIRT - PINK
+SIZE:
+36
+2019-08-27 15:15:03,948  INFO [main] LogReports:21 - Price of the product2:015.00
+2019-08-27 15:15:04,520  INFO [main] LogReports:21 - total price: 33.0
+2019-08-27 15:15:04,722  INFO [main] LogReports:21 - Expected Grand Total:33.00
+2019-08-27 15:15:08,996  INFO [main] LogReports:21 - The name of the testcase passed is :selectProduct
+2019-08-27 15:15:12,193  INFO [main] LogReports:21 - capture success
+2019-08-27 15:15:14,042 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-08-27 15:15:14,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-08-27 15:15:14,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-08-27 15:15:14,047 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-08-27 15:15:14,047 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Anne.Sivakumar/.m2/repository/com/relevantcodes/extentreports/2.41.0/extentreports-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

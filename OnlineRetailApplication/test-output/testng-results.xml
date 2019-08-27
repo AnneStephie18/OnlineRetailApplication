@@ -2,31 +2,31 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="270954" started-at="2019-08-26T13:24:21Z" finished-at="2019-08-26T13:28:52Z">
+  <suite name="Default suite" duration-ms="82964" started-at="2019-08-27T09:37:12Z" finished-at="2019-08-27T09:38:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="270954" started-at="2019-08-26T13:24:21Z" finished-at="2019-08-26T13:28:52Z">
+    <test name="Default test" duration-ms="82964" started-at="2019-08-27T09:37:12Z" finished-at="2019-08-27T09:38:35Z">
       <class name="com.onlineretail.qa.testscripts.AutomateSearchedProduct">
-        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="preSetup" is-config="true" duration-ms="67112" started-at="2019-08-26T18:54:21Z" finished-at="2019-08-26T18:55:28Z">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@78691363]" name="preSetup" is-config="true" duration-ms="22929" started-at="2019-08-27T15:07:12Z" finished-at="2019-08-27T15:07:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preSetup -->
-        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="searchProduct" duration-ms="202054" started-at="2019-08-26T18:55:28Z" finished-at="2019-08-26T18:58:50Z">
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@78691363]" name="searchProduct" duration-ms="56548" started-at="2019-08-27T15:07:35Z" finished-at="2019-08-27T15:08:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="getResult" is-config="true" duration-ms="712" started-at="2019-08-26T18:58:50Z" finished-at="2019-08-26T18:58:51Z">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@78691363]" name="getResult" is-config="true" duration-ms="830" started-at="2019-08-27T15:08:32Z" finished-at="2019-08-27T15:08:33Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=AutomateSearchedProduct.searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082] output={null}]]]>
+                <![CDATA[[TestResult name=searchProduct status=SUCCESS method=AutomateSearchedProduct.searchProduct()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@78691363] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@1bb5a082]" name="tearDown" is-config="true" duration-ms="1056" started-at="2019-08-26T18:58:51Z" finished-at="2019-08-26T18:58:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.onlineretail.qa.testscripts.AutomateSearchedProduct@78691363]" name="tearDown" is-config="true" duration-ms="2574" started-at="2019-08-27T15:08:33Z" finished-at="2019-08-27T15:08:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

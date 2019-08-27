@@ -1,5 +1,6 @@
 package com.onlineretail.qa.pages;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 
 import com.onlineretail.qa.helper.Helper;
@@ -12,28 +13,37 @@ public class SearchedProduct {
 	LogReports log=new LogReports();
 	SelectedProduct selectproductobject=new SelectedProduct();
 	String productitem4maxiexpectedtitle,productitem5maxiexpectedtitle,grandtotalformaxiexpected;
+	String productcolor1,productsize1,productcolor2,productsize2;
+	
+	
 	public void searchItem(WebDriver driver)
 	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		 
 		try {
-			productitem4maxiexpectedtitle=ExcelUtils.getCellData("sheet1", 3, 0);
-			productitem5maxiexpectedtitle=ExcelUtils.getCellData("sheet1", 4, 0);
-			grandtotalformaxiexpected=ExcelUtils.getCellData("sheet1", 2, 4);
 			
+			productitem4maxiexpectedtitle=ExcelUtils.getCellData1("sheet1", "product name", 4);
+			productitem5maxiexpectedtitle=ExcelUtils.getCellData1("sheet1","product name", 5);
+			grandtotalformaxiexpected=ExcelUtils.getCellData1("sheet1", "product total", 3);
+			productcolor1=ExcelUtils.getCellData1("sheet1", "product color", 4);
+			productsize1=ExcelUtils.getCellData1("sheet1", "product size", 4);
+			productcolor2=ExcelUtils.getCellData1("sheet1", "product color", 5);
+			productsize2=ExcelUtils.getCellData1("sheet1", "product size", 5);
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		clickSearch(driver, "sendkeyvalue1");
-		//commonutilityobject.click(driver, "search_button");
-		//commonutilityobject.sendKeys(driver, "search_box", "sendkeyvalue1");
+		scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.click(driver, "product_item4_maxi");
 		selectproductobject.verifyTitle(driver, productitem4maxiexpectedtitle);
-		addToCart(driver, "dropdownmenu_color_value2", "dropdownmenu_size_value4", "dropdownmenu_quantity_value1");
+		addToCart(driver,productcolor1 ,productsize1 , "dropdownmenu_quantity_value1");
 		commonutilityobject.navigateTo(driver);
 		clickSearch(driver, "sendkeyvalue1");
+		scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.click(driver, "product_item5_maxi");
 		selectproductobject.verifyTitle(driver, productitem5maxiexpectedtitle);
-		selectproductobject.addToCart(driver, "dropdownmenu_color_value1", "dropdownmenu_size_value5", "dropdownmenu_quantity_value2");
+		selectproductobject.addToCart(driver,productcolor2 ,productsize2 , "dropdownmenu_quantity_value2");
 		commonutilityobject.navigateTo(driver);
 		commonutilityobject.click(driver, "carticon");
 		selectproductobject.viewCart(driver,grandtotalformaxiexpected);
@@ -42,6 +52,8 @@ public class SearchedProduct {
 	}
 	public void addToCart(WebDriver driver,String dropdowncolorvalue,String dropdownsizevalue,String dropdownquantityvalue)
 	{
+		JavascriptExecutor scroll = (JavascriptExecutor) driver;
+		 scroll.executeScript("window.scrollBy(0,500)");
 		commonutilityobject.selectDropdownMenu(driver, "dropdownmenu_maxi_color", dropdowncolorvalue);
 		commonutilityobject.selectDropdownMenu(driver, "dropdownmenu_maxi_size", dropdownsizevalue);
 		
